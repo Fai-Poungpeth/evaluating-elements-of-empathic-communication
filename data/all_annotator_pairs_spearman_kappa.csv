@@ -1,0 +1,127 @@
+Dataset,Dimension,Annotator Pair,Spearman Correlation,Spearman P-value,Fisher CI Lower,Fisher CI Upper,Weighted Cohen's Kappa
+RPG,advice_giving,"('expert1', 'expert2')",0.79,0.000,0.66,0.88,0.70
+RPG,demonstrating_understanding,"('expert1', 'expert2')",0.58,0.000,0.36,0.74,0.47
+RPG,dismissing_emotions,"('expert1', 'expert2')",0.48,0.000,0.24,0.67,0.35
+Empathetic Dialogues,empathy,"('expert1', 'expert2')",0.63,0.000,0.42,0.77,0.51
+RPG,encouraging_elaboration,"('expert1', 'expert2')",0.76,0.000,0.62,0.86,0.69
+Empathetic Dialogues,fluency,"('expert1', 'expert2')",0.25,0.082,-0.03,0.49,0.28
+EPITOME,level_emotional_reactions,"('expert1', 'expert2')",0.41,0.003,0.15,0.62,0.35
+EPITOME,level_explorations,"('expert1', 'expert2')",0.82,0.000,0.71,0.90,0.76
+EPITOME,level_interpretations,"('expert1', 'expert2')",0.41,0.003,0.15,0.62,0.26
+Perceived Empathy,m_accepted,"('expert1', 'expert2')",0.47,0.001,0.22,0.66,0.43
+Perceived Empathy,m_affirmed,"('expert1', 'expert2')",0.53,0.000,0.29,0.70,0.49
+Perceived Empathy,m_caredfor,"('expert1', 'expert2')",0.55,0.000,0.33,0.72,0.55
+Perceived Empathy,m_emotional,"('expert1', 'expert2')",0.73,0.000,0.57,0.84,0.74
+Perceived Empathy,m_motivation,"('expert1', 'expert2')",0.77,0.000,0.62,0.86,0.66
+Perceived Empathy,m_practical,"('expert1', 'expert2')",0.77,0.000,0.62,0.86,0.77
+Perceived Empathy,m_seen,"('expert1', 'expert2')",0.54,0.000,0.31,0.71,0.55
+Perceived Empathy,m_understood,"('expert1', 'expert2')",0.62,0.000,0.42,0.77,0.60
+Perceived Empathy,m_validated,"('expert1', 'expert2')",0.59,0.000,0.38,0.75,0.59
+Empathetic Dialogues,relevance,"('expert1', 'expert2')",0.23,0.109,-0.05,0.48,0.44
+RPG,self_oriented,"('expert1', 'expert2')",0.85,0.000,0.75,0.91,0.82
+RPG,validating_emotions,"('expert1', 'expert2')",0.48,0.000,0.23,0.67,0.25
+RPG,advice_giving,"('experts', 'crowd')",0.44,0.002,0.18,0.64,0.39
+RPG,demonstrating_understanding,"('experts', 'crowd')",0.48,0.000,0.23,0.67,0.22
+RPG,dismissing_emotions,"('experts', 'crowd')",0.23,0.115,-0.06,0.47,0.21
+Empathetic Dialogues,empathy,"('experts', 'crowd')",0.36,0.010,0.09,0.58,0.16
+RPG,encouraging_elaboration,"('experts', 'crowd')",0.69,0.000,0.51,0.81,0.37
+Empathetic Dialogues,fluency,"('experts', 'crowd')",0.29,0.039,0.02,0.53,0.53
+EPITOME,level_emotional_reactions,"('experts', 'crowd')",0.67,0.000,0.48,0.80,0.63
+EPITOME,level_explorations,"('experts', 'crowd')",0.64,0.000,0.44,0.78,0.47
+EPITOME,level_interpretations,"('experts', 'crowd')",0.50,0.000,0.25,0.68,0.37
+Perceived Empathy,m_accepted,"('experts', 'crowd')",0.43,0.002,0.17,0.63,0.17
+Perceived Empathy,m_affirmed,"('experts', 'crowd')",0.35,0.013,0.08,0.57,0.19
+Perceived Empathy,m_caredfor,"('experts', 'crowd')",0.36,0.011,0.09,0.58,0.24
+Perceived Empathy,m_emotional,"('experts', 'crowd')",0.55,0.000,0.32,0.72,0.37
+Perceived Empathy,m_motivation,"('experts', 'crowd')",0.36,0.009,0.10,0.58,0.33
+Perceived Empathy,m_practical,"('experts', 'crowd')",0.41,0.003,0.14,0.62,0.37
+Perceived Empathy,m_seen,"('experts', 'crowd')",0.16,0.258,-0.12,0.42,0.10
+Perceived Empathy,m_understood,"('experts', 'crowd')",0.27,0.061,-0.01,0.51,0.16
+Perceived Empathy,m_validated,"('experts', 'crowd')",0.36,0.010,0.09,0.58,0.21
+Empathetic Dialogues,relevance,"('experts', 'crowd')",0.30,0.037,0.02,0.53,0.54
+RPG,self_oriented,"('experts', 'crowd')",0.50,0.000,0.26,0.69,0.41
+RPG,validating_emotions,"('experts', 'crowd')",0.51,0.000,0.27,0.69,0.25
+RPG,advice_giving,"('experts', 'gemini')",0.74,0.000,0.58,0.84,0.71
+RPG,demonstrating_understanding,"('experts', 'gemini')",0.50,0.000,0.25,0.68,0.58
+RPG,dismissing_emotions,"('experts', 'gemini')",0.40,0.004,0.14,0.61,0.44
+Empathetic Dialogues,empathy,"('experts', 'gemini')",0.41,0.003,0.15,0.62,0.33
+RPG,encouraging_elaboration,"('experts', 'gemini')",0.78,0.000,0.64,0.87,0.67
+Empathetic Dialogues,fluency,"('experts', 'gemini')",0.08,0.563,-0.20,0.35,0.04
+EPITOME,level_emotional_reactions,"('experts', 'gemini')",0.54,0.000,0.31,0.71,0.41
+EPITOME,level_explorations,"('experts', 'gemini')",0.46,0.001,0.20,0.65,0.25
+EPITOME,level_interpretations,"('experts', 'gemini')",0.54,0.000,0.31,0.71,0.47
+Perceived Empathy,m_accepted,"('experts', 'gemini')",0.48,0.000,0.23,0.67,0.19
+Perceived Empathy,m_affirmed,"('experts', 'gemini')",0.50,0.000,0.26,0.68,0.29
+Perceived Empathy,m_caredfor,"('experts', 'gemini')",0.36,0.009,0.10,0.58,0.16
+Perceived Empathy,m_emotional,"('experts', 'gemini')",0.46,0.001,0.20,0.65,0.35
+Perceived Empathy,m_motivation,"('experts', 'gemini')",0.54,0.000,0.30,0.71,0.31
+Perceived Empathy,m_practical,"('experts', 'gemini')",0.48,0.000,0.23,0.67,0.51
+Perceived Empathy,m_seen,"('experts', 'gemini')",0.47,0.001,0.22,0.66,0.32
+Perceived Empathy,m_understood,"('experts', 'gemini')",0.53,0.000,0.29,0.70,0.37
+Perceived Empathy,m_validated,"('experts', 'gemini')",0.55,0.000,0.33,0.72,0.35
+Empathetic Dialogues,relevance,"('experts', 'gemini')",0.42,0.002,0.17,0.63,0.19
+RPG,self_oriented,"('experts', 'gemini')",0.90,0.000,0.83,0.94,0.83
+RPG,validating_emotions,"('experts', 'gemini')",0.59,0.000,0.37,0.74,0.41
+RPG,advice_giving,"('experts', 'llm')",0.74,0.000,0.58,0.84,0.62
+RPG,demonstrating_understanding,"('experts', 'llm')",0.50,0.000,0.25,0.68,0.64
+RPG,dismissing_emotions,"('experts', 'llm')",0.47,0.001,0.22,0.66,0.18
+Empathetic Dialogues,empathy,"('experts', 'llm')",0.51,0.000,0.27,0.69,0.37
+RPG,encouraging_elaboration,"('experts', 'llm')",0.77,0.000,0.62,0.86,0.69
+Empathetic Dialogues,fluency,"('experts', 'llm')",-0.10,0.479,-0.37,0.18,0.01
+EPITOME,level_emotional_reactions,"('experts', 'llm')",0.66,0.000,0.46,0.79,0.63
+EPITOME,level_explorations,"('experts', 'llm')",0.42,0.002,0.16,0.63,0.45
+EPITOME,level_interpretations,"('experts', 'llm')",0.32,0.024,0.05,0.55,0.30
+Perceived Empathy,m_accepted,"('experts', 'llm')",0.48,0.000,0.23,0.67,0.49
+Perceived Empathy,m_affirmed,"('experts', 'llm')",0.52,0.000,0.29,0.70,0.54
+Perceived Empathy,m_caredfor,"('experts', 'llm')",0.42,0.002,0.16,0.62,0.44
+Perceived Empathy,m_emotional,"('experts', 'llm')",0.57,0.000,0.35,0.73,0.60
+Perceived Empathy,m_motivation,"('experts', 'llm')",0.57,0.000,0.34,0.73,0.59
+Perceived Empathy,m_practical,"('experts', 'llm')",0.67,0.000,0.48,0.80,0.61
+Perceived Empathy,m_seen,"('experts', 'llm')",0.53,0.000,0.30,0.71,0.54
+Perceived Empathy,m_understood,"('experts', 'llm')",0.62,0.000,0.42,0.77,0.61
+Perceived Empathy,m_validated,"('experts', 'llm')",0.60,0.000,0.39,0.75,0.62
+Empathetic Dialogues,relevance,"('experts', 'llm')",0.51,0.000,0.27,0.69,0.21
+RPG,self_oriented,"('experts', 'llm')",0.84,0.000,0.73,0.90,0.69
+RPG,validating_emotions,"('experts', 'llm')",0.55,0.000,0.32,0.72,0.51
+RPG,advice_giving,"('gemini', 'crowd')",0.38,0.006,0.12,0.60,0.32
+RPG,demonstrating_understanding,"('gemini', 'crowd')",0.49,0.000,0.25,0.68,0.18
+RPG,dismissing_emotions,"('gemini', 'crowd')",0.23,0.106,-0.05,0.48,0.27
+Empathetic Dialogues,empathy,"('gemini', 'crowd')",0.02,0.898,-0.26,0.30,0.01
+RPG,encouraging_elaboration,"('gemini', 'crowd')",0.72,0.000,0.55,0.83,0.61
+Empathetic Dialogues,fluency,"('gemini', 'crowd')",0.12,0.414,-0.17,0.38,0.06
+EPITOME,level_emotional_reactions,"('gemini', 'crowd')",0.41,0.003,0.15,0.62,0.29
+EPITOME,level_explorations,"('gemini', 'crowd')",0.21,0.143,-0.07,0.46,0.10
+EPITOME,level_interpretations,"('gemini', 'crowd')",0.41,0.004,0.14,0.61,0.34
+Perceived Empathy,m_accepted,"('gemini', 'crowd')",0.45,0.001,0.20,0.65,0.53
+Perceived Empathy,m_affirmed,"('gemini', 'crowd')",0.34,0.015,0.07,0.57,0.39
+Perceived Empathy,m_caredfor,"('gemini', 'crowd')",0.34,0.017,0.06,0.56,0.37
+Perceived Empathy,m_emotional,"('gemini', 'crowd')",0.52,0.000,0.28,0.70,0.57
+Perceived Empathy,m_motivation,"('gemini', 'crowd')",0.46,0.001,0.21,0.65,0.42
+Perceived Empathy,m_practical,"('gemini', 'crowd')",0.53,0.000,0.30,0.71,0.42
+Perceived Empathy,m_seen,"('gemini', 'crowd')",0.35,0.013,0.08,0.57,0.46
+Perceived Empathy,m_understood,"('gemini', 'crowd')",0.31,0.028,0.04,0.54,0.40
+Perceived Empathy,m_validated,"('gemini', 'crowd')",0.37,0.008,0.10,0.59,0.42
+Empathetic Dialogues,relevance,"('gemini', 'crowd')",0.26,0.068,-0.02,0.50,0.10
+RPG,self_oriented,"('gemini', 'crowd')",0.49,0.000,0.24,0.67,0.50
+RPG,validating_emotions,"('gemini', 'crowd')",0.59,0.000,0.38,0.75,0.52
+RPG,advice_giving,"('llm', 'crowd')",0.48,0.000,0.23,0.67,0.45
+RPG,demonstrating_understanding,"('llm', 'crowd')",0.42,0.003,0.15,0.62,0.17
+RPG,dismissing_emotions,"('llm', 'crowd')",0.26,0.070,-0.02,0.50,0.20
+Empathetic Dialogues,empathy,"('llm', 'crowd')",0.03,0.844,-0.25,0.30,0.00
+RPG,encouraging_elaboration,"('llm', 'crowd')",0.69,0.000,0.50,0.81,0.54
+Empathetic Dialogues,fluency,"('llm', 'crowd')",0.27,0.057,-0.01,0.51,0.06
+EPITOME,level_emotional_reactions,"('llm', 'crowd')",0.66,0.000,0.47,0.79,0.59
+EPITOME,level_explorations,"('llm', 'crowd')",0.38,0.007,0.11,0.59,0.29
+EPITOME,level_interpretations,"('llm', 'crowd')",0.25,0.075,-0.03,0.50,0.19
+Perceived Empathy,m_accepted,"('llm', 'crowd')",0.40,0.004,0.14,0.61,0.20
+Perceived Empathy,m_affirmed,"('llm', 'crowd')",0.43,0.002,0.18,0.64,0.19
+Perceived Empathy,m_caredfor,"('llm', 'crowd')",0.35,0.013,0.08,0.57,0.23
+Perceived Empathy,m_emotional,"('llm', 'crowd')",0.55,0.000,0.32,0.72,0.37
+Perceived Empathy,m_motivation,"('llm', 'crowd')",0.52,0.000,0.28,0.70,0.45
+Perceived Empathy,m_practical,"('llm', 'crowd')",0.59,0.000,0.38,0.75,0.55
+Perceived Empathy,m_seen,"('llm', 'crowd')",0.43,0.002,0.17,0.63,0.19
+Perceived Empathy,m_understood,"('llm', 'crowd')",0.43,0.002,0.17,0.63,0.16
+Perceived Empathy,m_validated,"('llm', 'crowd')",0.49,0.000,0.24,0.67,0.19
+Empathetic Dialogues,relevance,"('llm', 'crowd')",0.20,0.163,-0.08,0.45,0.08
+RPG,self_oriented,"('llm', 'crowd')",0.52,0.000,0.28,0.70,0.56
+RPG,validating_emotions,"('llm', 'crowd')",0.55,0.000,0.33,0.72,0.37
