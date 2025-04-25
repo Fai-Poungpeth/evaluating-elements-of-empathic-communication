@@ -1,0 +1,711 @@
+sp_id,rp_id,full_conversation,level_emotional_reactions,level_explorations,level_interpretations
+97keuy,e48xfwa,"Seeker: For 10 years I have been questioning why my sister, who was more alive and happy about life than I ever was, had to die first. I don’t even like living. Why am I still here?!. I just hate this. What a flawed design.
+Supporter: So sorry for your loss","Step 1: Example — ""So sorry for your loss""
+
+Step 2: Justification — The supporter explicitly expresses sympathy and compassion toward the seeker's grief through this brief statement of condolence. This shows a basic level of emotional concern for the seeker's painful situation of losing their sister.
+
+Step 3: Score — 1","Step 1: Example - ""So sorry for your loss""
+
+Step 2: Justification - While the supporter expresses condolences, they don't ask any questions or make attempts to explore the seeker's experiences and feelings. The supporter doesn't inquire about the sister, the seeker's grief, their questioning of life, or their current emotional state. There is no invitation for the seeker to elaborate on their feelings or experiences.
+
+Step 3: Score - 0","Step 1: Example - ""So sorry for your loss""
+
+Step 2: Justification - While the supporter expresses sympathy by saying ""So sorry for your loss,"" this is a very brief and generic response that fails to engage with the depth of the seeker's grief, questioning, existential distress, or their complex feelings about surviving when their sister died. The response doesn't reflect any understanding of the seeker's decade-long struggle with survivor's guilt, their lack of desire to live, or their anger at what they perceive as a ""flawed design"" of life. The supporter has acknowledged the loss but hasn't demonstrated any deeper understanding of the seeker's emotional experience.
+
+Step 3: Score - 1"
+5ziak3,deyb83s,"Seeker: Hit 20 today and at my all time low. Hopefully I don't go any lower
+Supporter: Once you are at the bottom you can only go up. Hope things get better for you :)","Step 1: Example - ""Hope things get better for you :)""
+
+Step 2: Justification - This statement shows concern for the seeker's wellbeing and expresses a warm wish for their improvement. The supporter is showing compassion by acknowledging that the seeker is going through a difficult time and offering a positive sentiment for their future. The inclusion of a smiley face emoticon adds warmth to the message.
+
+Step 3: Score - 1","Step 1: Example - N/A
+
+Step 2: Justification - The supporter does not make any attempt to explore the seeker's experiences or feelings. Instead of asking questions about what's causing the seeker to feel at their ""all time low"" or inviting them to share more about their situation, the supporter immediately offers a generic platitude (""Once you are at the bottom you can only go up"") and a general well-wish. There are no questions or prompts that would encourage the seeker to elaborate on their experiences or emotions.
+
+Step 3: Score - 0","Step 1: Example - There is no clear example where the supporter communicates an understanding of the seeker's experiences and feelings.
+
+Step 2: Justification - The supporter offers a cliché statement ""Once you are at the bottom you can only go up"" and a generic well-wish ""Hope things get better for you :)"" without demonstrating any understanding of what the seeker means by being at their ""all time low"" or what they might be experiencing emotionally. The response doesn't acknowledge the seeker's pain, explore their feelings, or show genuine understanding of their situation. Instead, it dismisses the depth of their struggle with a platitude.
+
+Step 3: Score - 0"
+6l2ex7,djr0aur,"Seeker: I'm tired. That's how I feel, not just physically but mentally too. Like the dim screen on a phone with no battery left. I just want to rest, but lately that makes it worse. Why does this feel so bad?
+Supporter: I know how that is. Resting feels like the right thing to do but it never quite works. Have you thought about taking a sleep aid? I take mirtazapine before bed and it makes me sleep better and I feel better the next day. More rested and alert. It is part of my strategy to finally lift my depression.","Step 1: Example - ""I know how that is.""
+
+Step 2: Justification - This statement shows a minimal attempt at connection by claiming to understand the seeker's experience. However, the supporter quickly shifts to advice-giving without expressing genuine compassion, concern, or warmth toward the seeker's emotional state. They don't acknowledge the depth of the seeker's exhaustion or validate their feelings. The response focuses more on the supporter's own experience and solutions rather than expressing care for the seeker's wellbeing.
+
+Step 3: Score - 1","Step 1: Example - None. The supporter doesn't ask any questions about the seeker's experience or attempt to explore their feelings more deeply.
+
+Step 2: Justification - While the supporter acknowledges they know how the seeker feels, they immediately jump to problem-solving by suggesting a sleep aid. They don't ask any open-ended questions to help the seeker elaborate on their experience of feeling tired ""physically and mentally"" or what makes it ""feel so bad."" Instead of exploring the seeker's metaphor of being like ""a dim screen on a phone with no battery left,"" the supporter shifts to sharing their own experience and solution.
+
+Step 3: Score - 0","Step 1: Example - ""I know how that is. Resting feels like the right thing to do but it never quite works.""
+
+Step 2: Justification - The supporter briefly acknowledges the seeker's experience of feeling tired and how resting ""makes it worse."" However, this acknowledgment is very minimal and quickly transitions into advice about sleep aids rather than truly exploring or validating the seeker's emotional state of feeling mentally tired ""like the dim screen on a phone with no battery left."" The supporter doesn't adequately address the depth of the seeker's mental exhaustion or the emotional pain expressed in ""Why does this feel so bad?""
+
+Step 3: Score - 1"
+47jmki,d0djxlk,"Seeker: what is the easiest way to kill myself. I have no reason to live so please help me
+Supporter: Sometimes you really need to be reminded of that other side and that you will in fact return to it. Don't make any big decisions when in the heat of the moment. Focus on other things (TV shows, artistic endeavours, school, etc) and return once you've cooled off. Good on you for reaching out for help, my friend. Despite these people not knowing you, we're all in this together. Keep your head up","Step 1: Example - ""Good on you for reaching out for help, my friend. Despite these people not knowing you, we're all in this together. Keep your head up""
+
+Step 2: Justification - The supporter shows compassion and warmth by acknowledging the seeker's effort to reach out for help and offering encouragement. Using phrases like ""my friend"" and ""we're all in this together"" demonstrates a caring, supportive attitude. The encouragement to ""keep your head up"" shows concern for the seeker's wellbeing and a desire for them to remain hopeful.
+
+Step 3: Score - 2","Step 1: Example - None present in the conversation.
+
+Step 2: Justification - The supporter does not make any attempt to explore the seeker's experiences or feelings. Instead of asking open-ended questions about what led to the seeker's suicidal thoughts or exploring their emotional state, the supporter immediately moves to general advice about not making decisions when emotional, focusing on distractions, and offering generic encouragement. The response completely bypasses exploring why the seeker feels they have ""no reason to live"" or what experiences led to this crisis point.
+
+Step 3: Score - 0","Step 1: Example - ""Sometimes you really need to be reminded of that other side and that you will in fact return to it. Don't make any big decisions when in the heat of the moment.""
+
+Step 2: Justification - This statement acknowledges that the seeker is in a difficult emotional state (the ""heat of the moment""), which implies some understanding that they're experiencing intense negative feelings. However, the supporter doesn't actually communicate a clear understanding of the seeker's specific experience of having ""no reason to live"" or their suicidal ideation. They don't validate or reflect the seeker's despair or hopelessness directly.
+
+Step 3: Score - 1"
+99yrsp,e4req4x,"Seeker: Happy. Is it possible to never be happy?
+Supporter: temporarily but it never seems to last","Step 1: Example - N/A
+
+Step 2: Justification - The supporter's response ""temporarily but it never seems to last"" does not express or allude to any warmth, compassion, or concern toward the seeker. The response is brief, impersonal, and lacks any emotional connection or empathetic acknowledgment of the seeker's feelings about happiness. There are no words or phrases that demonstrate caring, understanding, or compassion.
+
+Step 3: Score - 0","Step 1: Example - N/A
+
+Step 2: Justification - The supporter does not make any attempt to explore the seeker's experiences or feelings. They offer a brief philosophical statement about happiness being temporary but never ask questions about the seeker's personal situation, don't inquire about why the seeker is asking this question, and don't prompt the seeker to share more about their experiences with happiness or what might be causing them to question whether happiness is possible.
+
+Step 3: Score - 0","Step 1: Example - ""temporarily but it never seems to last""
+
+Step 2: Justification - The supporter's response shows minimal understanding of the seeker's question about happiness. While they acknowledge the possibility of happiness being temporary, they don't really engage with the seeker's core concern about potentially never experiencing happiness. The response doesn't reflect or validate the seeker's feelings or experiences, and fails to explore the emotional weight behind asking such an existential question.
+
+Step 3: Score - 0"
+7bae7a,dphh2hi,"Seeker: I.... just always depressed.. I ever think doing the right thing.
+Supporter: Me too..depression clouds our judgment. It gets really hard to think about things clearly. Hate this feeling but it won't go away yet.","Step 1: Example - ""Me too..depression clouds our judgment. It gets really hard to think about things clearly. Hate this feeling but it won't go away yet.""
+
+Step 2: Justification - The supporter expresses shared experience with depression by saying ""Me too"" and acknowledges the difficulty of the situation with ""it gets really hard."" This shows a form of solidarity and understanding of what the seeker is going through. However, while there is some implicit empathy through shared experience, the response lacks explicit expressions of warmth, compassion, or direct concern for the seeker. The supporter focuses more on relating their own similar experiences rather than offering direct compassionate statements toward the seeker's feelings.
+
+Step 3: Score - 1","Step 1: Example - None of the supporter's response attempts to explore the seeker's experiences and feelings.
+
+Step 2: Justification - The supporter immediately shifts to their own experience (""Me too..depression clouds our judgment"") rather than asking questions or inviting the seeker to elaborate on their depression or why they feel they aren't doing the right thing. The supporter relates to the seeker's experience but doesn't make any effort to explore it further through questions or invitations to share more.
+
+Step 3: Score - 0","Step 1: Example - ""Me too..depression clouds our judgment. It gets really hard to think about things clearly. Hate this feeling but it won't go away yet.""
+
+Step 2: Justification - The supporter demonstrates understanding of the seeker's depressed state by acknowledging how depression affects thinking (""clouds our judgment"") and explicitly stating they relate to the difficulty of thinking clearly when depressed. They also validate the persistent nature of depression with ""it won't go away yet,"" showing they understand the ongoing struggle the seeker is experiencing.
+
+Step 3: Score - 2"
+7faqco,dqasc1x,"Seeker: When my account hits zero, that's when I'll kill myself. Just wasting my money on food and weed constantly. Who cares. I saw this coming. Soon there won't be any money for gas. No time for work. Just death.
+Supporter: Stop the weed it works for.skme people","Step 1: Example — N/A
+
+Step 2: Justification — The supporter's response ""Stop the weed it works for.skme people"" does not express or allude to any warmth, compassion, or concern for the seeker. The response is directive without acknowledging the seeker's emotional state or expressing care about their suicidal thoughts. There is no language that demonstrates empathy, warmth, or compassionate understanding of the seeker's distress.
+
+Step 3: Score — 0","Step 1: Example - N/A
+
+Step 2: Justification - The supporter does not make any attempt to explore the seeker's experiences or feelings. Instead of asking questions about the seeker's situation, their emotional state, or trying to understand more about what led to these suicidal thoughts, the supporter jumps directly to giving advice (""Stop the weed""). There are no open-ended questions, no invitations for the seeker to elaborate, and no attempt to understand the deeper feelings behind the seeker's distress.
+
+Step 3: Score - 0","Step 1: Example - N/A
+
+Step 2: Justification - The supporter's response ""Stop the weed it works for.skme people"" does not demonstrate any understanding of the seeker's emotional state or experiences. The seeker is expressing suicidal thoughts, financial distress, and a sense of hopelessness. The supporter jumps straight to giving directive advice about stopping marijuana use without acknowledging the seeker's emotional pain, suicidal ideation, or financial concerns. There is no validation, reflection, or indication that the supporter comprehends the gravity of the seeker's situation.
+
+Step 3: Score - 0"
+8fzl06,dy7mpoe,"Seeker: How do I tell my parents I'm a failure?. Failed most classes at uni, I got temporarily dropped cause of that but I'm just scared to tell them..
+Supporter: Just tell them straight up. I'm sure they will understand.","Step 1: Example - ""I'm sure they will understand.""
+
+Step 2: Justification - This is a very weak attempt at reassurance that suggests some minimal level of emotional support, but it lacks any genuine expression of warmth, compassion, or concern for the seeker's difficult situation. The supporter doesn't acknowledge the seeker's fear or feelings of failure, show empathy for their predicament, or express any personal concern about their wellbeing.
+
+Step 3: Score - 1","Step 1: Example - None present in the supporter's response.
+
+Step 2: Justification - The supporter's response ""Just tell them straight up. I'm sure they will understand"" does not attempt to explore the seeker's experiences or feelings at all. Instead of asking questions about what the seeker is going through, why they failed their classes, how they're feeling about the situation, or what makes them scared to tell their parents, the supporter simply gives direct advice without trying to understand the seeker's situation more deeply.
+
+Step 3: Score - 0","Step 1: Example - There is no clear instance where the supporter communicates an understanding of the seeker's experiences and feelings.
+
+Step 2: Justification - The supporter's response ""Just tell them straight up. I'm sure they will understand"" does not acknowledge the seeker's expressed fear about telling their parents they failed classes, nor does it validate their feelings of being a ""failure"" or the anxiety they're experiencing. The supporter does not mirror any of the seeker's language or demonstrate empathy for their difficult situation. Instead, the response moves directly to advice without first showing understanding of the emotional state of the seeker.
+
+Step 3: Score - 0"
+5udu49,ddtar8i,"Seeker: Feeling dead inside. For the last 1-2 weeks feeling nothing inside, like most of the other people, dont know what to do. Thoughts in the middle of the night well, i might die, i dont have what to live for. Literally void of nothing, black space.
+Supporter: As someone who's felt the same, what do you have? And I'm speaking objectively, because I typically don't want to admit that I have what I need when I feel as you do. Not that I'm saying that you do have a lot, but your post doesn't necessarily shed a lot of light on what's going on. It's easy, or it has been for me, at least, to say that I don't know what to live for, in the past. Somebody out there cares, man/woman, small or large. I don't know what your situation is, by your post, but feel free to message me if you want.","Step 1: Example - ""feel free to message me if you want.""
+
+Step 2: Justification - This statement shows compassion and concern by explicitly offering continued support to the seeker. The supporter is making themselves available for further conversation, which demonstrates care for the seeker's wellbeing. They're showing willingness to be there for the seeker beyond this initial exchange, indicating genuine concern.
+
+Step 3: Score - 1","Step 1: Example - ""What do you have? And I'm speaking objectively, because I typically don't want to admit that I have what I need when I feel as you do. Not that I'm saying that you do have a lot, but your post doesn't necessarily shed a lot of light on what's going on.""
+
+Step 2: Justification - The supporter asks an open question about the seeker's situation and acknowledges that the seeker's post doesn't provide much detail about their circumstances. The supporter is attempting to understand more about what's happening in the seeker's life that might be contributing to their feelings of emptiness. The statement ""your post doesn't necessarily shed a lot of light on what's going on"" indicates they want to learn more about the seeker's experience. Additionally, the invitation at the end ""feel free to message me if you want"" shows willingness to explore the seeker's feelings further.
+
+Step 3: Score - 1","Step 1: Example - ""As someone who's felt the same..."" and ""It's easy, or it has been for me, at least, to say that I don't know what to live for, in the past.""
+
+Step 2: Justification - The supporter demonstrates understanding of the seeker's emotional state by acknowledging that they've experienced similar feelings of emptiness and questioning what to live for. This shows the supporter recognizes and relates to the seeker's experience of feeling ""dead inside"" and having a ""void of nothing."" By sharing their own similar experiences, the supporter communicates that they understand what the seeker is going through.
+
+Step 3: Score - 1"
+79ws1b,dp5j55v,"Seeker: Does willingly refuse to take care of myself/willingly not avoid bad habits count as self-harm. Cause if it does, I do self harm.
+Supporter: Ya know it's funny, i've never cut, I rarely drink, have never been drunk, don't smoke(anything), only use prescribed meds. All my self harm is the kind that can be disguised as independent issues, like bad diet, lack of exercise, poor hygiene, too much time on my computer. I guess I don't want people to worry,","Step 1: Example — I cannot identify any clear expressions of warmth, compassion, or concern in the supporter's response. The supporter primarily shares their own experiences with subtle forms of self-harm but doesn't express explicit concern for the seeker's situation.
+
+Step 2: Justification — The supporter's response is focused on sharing their own similar experiences rather than showing compassion toward the seeker. They don't acknowledge the seeker's distress, validate their feelings, or express caring concern about the self-harming behaviors the seeker mentioned. While sharing personal experiences can sometimes create connection, in this case it's not accompanied by any explicit expressions of warmth or compassion directed at the seeker.
+
+Step 3: Score — 0","Step 1: Example - None. The supporter does not make an attempt to explore the seeker's experiences and feelings.
+
+Step 2: Justification - Instead of exploring the seeker's situation, the supporter immediately shifts to talking about their own experiences with self-harm. The supporter doesn't ask any questions about what the seeker meant by ""willingly refuse to take care of myself"" or inquire about the seeker's habits, feelings, or experiences. The response is entirely self-focused, missing the opportunity to explore what's happening with the seeker.
+
+Step 3: Score - 0","Step 1: Example - ""Ya know it's funny, i've never cut, I rarely drink, have never been drunk, don't smoke(anything), only use prescribed meds. All my self harm is the kind that can be disguised as independent issues, like bad diet, lack of exercise, poor hygiene, too much time on my computer.""
+
+Step 2: Justification - The supporter responds by sharing their own similar experiences with indirect forms of self-harm, implicitly validating the seeker's question about whether neglecting self-care counts as self-harm. By listing specific examples (bad diet, lack of exercise, poor hygiene), the supporter demonstrates understanding of what the seeker might be experiencing without directly addressing the seeker's emotions or experiences.
+
+Step 3: Score - 1"
+41g07l,cz26vua,"Seeker: Wish I was never born. Not looking for attention or advice to look on the bright side just hoping to get some perspective on how I feel. And maybe what it means psychologically to feel this way. All of my life I've felt like the black sheep. I never fit in anywhere really. I wish I was never born. I feel like I haven't impacted anyone's life and if I did it was negative or non existent. I should feel like I have a purpose. I have been married 6 years two kids later but even then if I died tomo who would care? How would the world be different. I just spoke to my husband about(hoping to maybe get some comfort in knowing I impacted his life for the better?) this was his exact words were yeah well I see how you could think that that was it. It broke me and felt like it validated my point. This life feels life a prison. It feels worthless and sickening to know no matter where I go it does t really even matter. How many others feel this way????
+Supporter: Yeah, I resonate with a lot of what you're saying. It's only on a place like here or a depression support group that you would find others that feel this way. Let me ask you this: what do you find joy or distraction in? Tell me everything you have tried.","Step 1: Example - ""Yeah, I resonate with a lot of what you're saying.""
+
+Step 2: Justification - The supporter expresses a connection with the seeker's feelings, which shows some level of empathy. However, this is a relatively weak expression of warmth or compassion. The supporter doesn't explicitly communicate concern for the seeker's emotional state or express warmth through supportive language. While they acknowledge the seeker's feelings by saying they ""resonate"" with them, they don't follow up with compassionate statements that would make the seeker feel cared for or supported in their distress.
+
+Step 3: Score - 1","Step 1: Example - ""Let me ask you this: what do you find joy or distraction in? Tell me everything you have tried.""
+
+Step 2: Justification - The supporter asks an open-ended question that attempts to explore the seeker's personal experiences and emotional state by inquiring about sources of joy or distraction. This shows an effort to understand the seeker's situation more deeply, although it shifts somewhat quickly to solutions without fully acknowledging the depth of the seeker's existential pain.
+
+Step 3: Score - 1","Step 1: Example - ""Yeah, I resonate with a lot of what you're saying.""
+
+Step 2: Justification - The supporter states that they resonate with what the seeker is expressing, which is an attempt to show understanding. However, this is a very surface-level acknowledgment that doesn't specifically address or reflect back any of the seeker's deep feelings of worthlessness, not belonging, or feeling like they haven't made a positive impact. The supporter doesn't validate or show understanding of the seeker's painful conversation with their husband or their existential distress about feeling their life has no purpose.
+
+Step 3: Score - 1"
+8ix424,dywk9hy,"Seeker: I'm ready. It's my own fault. I'm ready to go.
+Supporter: What are your reasons? Let's talk. Part of you does not want to go. My guess is you feel you have nothing to live for, to grab onto in this life. Thus you posted on here hoping someone could change your view. (Maybe I'm wrong. Whatever. We can still talk.)","Step 1: Example - ""Let's talk. Part of you does not want to go.""
+
+Step 2: Justification - This statement shows that the supporter is willing to engage with the seeker and recognizes that part of the seeker may not want to end their life. The invitation to talk suggests concern for the seeker's wellbeing and a desire to help them through whatever they're experiencing. However, the concern expressed is somewhat clinical rather than warm or compassionate. The supporter's tone remains somewhat detached with phrases like ""Maybe I'm wrong. Whatever."" which undercuts the expression of genuine compassion.
+
+Step 3: Score - 1","Step 1: Example - ""What are your reasons? Let's talk.""
+
+Step 2: Justification - The supporter directly asks the seeker to elaborate on their reasons for feeling ready to ""go"" (which appears to reference suicidal thoughts). This question invites the seeker to share more about their experiences and emotional state. The supporter also makes an attempt to understand the seeker's feelings by suggesting ""you feel you have nothing to live for"" and acknowledging the seeker might have posted hoping to find a reason to change their mind. These are explicit attempts to explore the seeker's internal experience.
+
+Step 3: Score - 2","Step 1: Example - ""My guess is you feel you have nothing to live for, to grab onto in this life.""
+
+Step 2: Justification - The supporter attempts to understand what the seeker might be experiencing by interpreting their brief message as feelings of emptiness and hopelessness. They're trying to articulate what might be behind the seeker's statement about being ""ready to go,"" showing some attempt to understand the seeker's emotional state. However, this understanding is presented as a guess rather than reflecting back what the seeker has actually shared, and it's followed by somewhat dismissive language (""Maybe I'm wrong. Whatever."").
+
+Step 3: Score - 1"
+78chdu,doss7uo,"Seeker: For those who have taken effexor, what has it done for you?. looking to hear both pros and cons of the medication. if you are currently on or have taken effexor, what did it do for you? as with any ssri/snri, they affect everybody differently and I understand this
+Supporter: side effects were bad, but the withdrawal was worse than coming down from opiates. over a month later, having rebound headaches and dizziness. i would suggest never taking it!","Step 1: Example - ""i would suggest never taking it!""
+
+Step 2: Justification - The supporter's warning could be interpreted as showing concern for the seeker's wellbeing by strongly cautioning against taking a medication that caused them significant distress. However, this is a very weak example of expressing compassion or warmth, as it's framed entirely as a negative warning without any explicit words of care, understanding, or emotional support for the seeker.
+
+Step 3: Score - 1","Step 1: Example - N/A. The supporter does not ask any questions or make any attempts to explore the seeker's experiences or feelings.
+
+Step 2: Justification - Instead of asking about the seeker's situation, symptoms, concerns, or why they're considering Effexor, the supporter immediately jumps to sharing their own negative experience with the medication. They make no effort to understand the seeker's unique circumstances or emotional state.
+
+Step 3: Score - 0","Step 1: Example - ""side effects were bad, but the withdrawal was worse than coming down from opiates.""
+
+Step 2: Justification - The supporter doesn't demonstrate an understanding of the seeker's experiences or feelings. They immediately launch into their own negative experience with the medication without acknowledging the seeker's situation, curiosity, or reasons for asking about Effexor. The supporter fails to validate the seeker's reasonable request for balanced information (""looking to hear both pros and cons"") and instead only shares their negative experience without showing empathy or understanding for the seeker's position.
+
+Step 3: Score - 0"
+6jy2ha,djhwgs6,"Seeker: Its my dream to become a paramedic.. How fucking dumb is that. Im stupid, out of shape, very skinny. Probably couldn't lift 20 pounds. Im 6'1 120 lbs.
+Supporter: Hey, I just completed my EMT cert. Part of it we had to do an ambulance rotation and were paired with paramedics for a while. Honestly, the things that I got from my experience in EMT class and doing the ride along is that there are a lot of pretty stupid, not very competent, or physically fit people out there doing it. Im not saying that you wouldn't have to change anything, but like I guarantee that you could do it if you want to and would be better at it than some of the people out there working.","Step 1: Example - ""Honestly, the things that I got from my experience in EMT class and doing the ride along is that there are a lot of pretty stupid, not very competent, or physically fit people out there doing it. Im not saying that you wouldn't have to change anything, but like I guarantee that you could do it if you want to and would be better at it than some of the people out there working.""
+
+Step 2: Justification - The supporter's message contains encouragement and a vote of confidence (""I guarantee that you could do it if you want to""), which demonstrates a mild form of compassion by trying to reassure the seeker. However, the overall tone lacks explicit warmth or concern for the seeker's emotional state. The supporter focuses more on sharing their own experience and practical reassurance rather than addressing the emotional distress behind the seeker's self-criticism.
+
+Step 3: Score - 1","Step 1: Example - There is no instance where the supporter attempts to explore the seeker's experiences and feelings.
+
+Step 2: Justification - The supporter immediately jumps into sharing their own experience as an EMT and offering reassurance without asking any questions about why the seeker feels this way about themselves, what draws them to being a paramedic, or exploring their feelings of inadequacy. The response is focused on the supporter's perspective and offering solutions rather than exploring the seeker's emotional state or experiences.
+
+Step 3: Score - 0","Step 1: Example - ""Honestly, the things that I got from my experience in EMT class and doing the ride along is that there are a lot of pretty stupid, not very competent, or physically fit people out there doing it.""
+
+Step 2: Justification - The supporter acknowledges the seeker's self-doubts about their intelligence and physical fitness by sharing observations from their own experience that directly address these concerns. By noting that many current paramedics don't match the idealized standard the seeker believes they need to meet, the supporter shows they understand the specific nature of the seeker's insecurities. However, the response doesn't explicitly acknowledge the emotional aspect of the seeker's message - the frustration, self-doubt, and possibly disappointment they're feeling about their dream seeming unattainable.
+
+Step 3: Score - 1"
+7f5fsf,dq9m34m,"Seeker: changes. i see no changes wake up in the morning and i ask myself is life worth living should i blast myself
+Supporter: Each day repeats with the only change is it gets worse, preach man.","Step 1: Example - There is no instance of the supporter expressing warmth, compassion, concern, or similar feelings toward the seeker.
+
+Step 2: Justification - The supporter's response ""Each day repeats with the only change is it gets worse, preach man"" acknowledges the seeker's negative feelings, but does so in a way that simply agrees with their hopelessness without offering any compassion, concern, or warmth. The response lacks any expressions of care for the seeker's wellbeing or emotional state, especially considering the seeker has mentioned thoughts about self-harm (""should i blast myself"").
+
+Step 3: Score - 0","Step 1: Example - None present. The supporter does not ask any questions or make statements that would encourage the seeker to elaborate on their experiences or feelings.
+
+Step 2: Justification - Instead of exploring the seeker's experiences or feelings about considering self-harm (""should i blast myself""), the supporter merely commiserates by saying ""preach man"" and reframing the seeker's statement. There is no attempt to ask open-ended questions or invite the seeker to share more about what they're going through.
+
+Step 3: Score - 0","Step 1: Example - ""Each day repeats with the only change is it gets worse, preach man.""
+
+Step 2: Justification - The supporter's response acknowledges the seeker's feelings of hopelessness and stagnation by affirming that days are repetitive and only getting worse. The ""preach man"" comment indicates recognition of the truth in the seeker's statement, suggesting they understand the seeker's perspective. However, the response is quite brief and doesn't deeply explore or validate the seeker's emotional state or the severity of their thoughts about whether ""life is worth living.""
+
+Step 3: Score - 1"
+6d8bpd,di0nlb2,"Seeker: What to do when you're on a real low?. I've had a good week after having a real shitty month. Now I feel low again and I'm all shaky and idk what to do.
+Supporter: Take a shower. Go look at the night sky. Stare into space and realize how small we are compared to it. Be humbled. Read a book, watch some videos. Eat a snack. Touch yourself and give yourself a massage. lol theres some ideas off the top of my head","Step 1: Example — There are no explicit expressions of warmth, compassion, or concern in the supporter's response. The supporter immediately jumps to providing suggestions without first acknowledging the seeker's emotional state or expressing care.
+
+Step 2: Justification — The supporter provides a list of activities for the seeker to try, but does not include any language that conveys emotional connection, empathy, or concern for the seeker's wellbeing. They don't use phrases like ""I'm sorry you're feeling low,"" ""I understand this must be difficult,"" or ""I hope you feel better soon."" The tone is practical rather than compassionate, and the ""lol"" at the end suggests a casual approach rather than genuine concern.
+
+Step 3: Score — 0","Step 1: Example - There is no instance where the supporter attempts to explore the seeker's experiences and feelings.
+
+Step 2: Justification - The supporter immediately jumps to providing a list of suggestions and activities without asking any questions about the seeker's situation, what ""feeling low"" means to them, what might have triggered the change in mood, or how the shaky feeling manifests. The supporter doesn't demonstrate curiosity about the seeker's emotional state or experiences and instead offers generic advice without exploring the underlying issues.
+
+Step 3: Score - 0","Step 1: Example - There is no instance where the supporter communicates an understanding of the seeker's experiences and feelings.
+
+Step 2: Justification - The supporter immediately jumps to offering a list of suggestions and activities without acknowledging the seeker's emotional state of feeling ""low again"" and being ""all shaky."" The supporter does not validate or reflect the seeker's feelings, nor do they demonstrate that they understand what the seeker is experiencing. Instead, they provide generic advice without connecting to the seeker's specific situation or emotional state.
+
+Step 3: Score - 0"
+982bo3,e4d9lz8,"Seeker: How come I feel depressed whenever I smoke weed?. Even when my friends all are having fun when high, I feel sad. Why and what can I do
+Supporter: I get this to. I used to feel great then when I became depressed it started to trigger my anxieties. It's hard to know whether it enlightens you to things you didn't want to know or whether the it's just making you paranoid, but regardless it makes me feel down. It affects all people differently. Only thing I could suggest is having a beer or something with it to try and reduce your anxiety.","Step 1: Example — ""I get this to.""
+
+Step 2: Justification — The supporter shows a form of empathetic connection by sharing their similar experience, which creates a sense of solidarity with the seeker. However, while this shows understanding, the response lacks explicit expressions of compassion, concern, or warmth toward the seeker's situation. The supporter shares their own experience but doesn't directly express care for how the seeker is feeling or show concern for their wellbeing. The supporter offers a solution at the end but doesn't frame it with compassionate language or express concern about the seeker's depressed feelings.
+
+Step 3: Score — 1","Step 1: Example - There is no clear attempt to explore the seeker's experiences and feelings through questions or prompts for elaboration. The supporter immediately shares their own experience and offers a solution without exploring the seeker's specific situation.
+
+Step 2: Justification - The supporter does acknowledge the seeker's emotion of feeling depressed when smoking weed, but rather than asking follow-up questions to understand the seeker's unique experience (e.g., ""What kind of sad thoughts come up for you?"" or ""How long has this been happening?""), the supporter primarily shares their own similar experience and jumps to suggesting a solution. There is no attempt to explore the nuances of the seeker's situation or feelings.
+
+Step 3: Score - 0","Step 1: Example - ""I get this to. I used to feel great then when I became depressed it started to trigger my anxieties. It's hard to know whether it enlightens you to things you didn't want to know or whether the it's just making you paranoid, but regardless it makes me feel down.""
+
+Step 2: Justification - The supporter demonstrates understanding of the seeker's experience by sharing their similar personal experience with feeling depressed when smoking weed. They acknowledge the contrast between how others might feel (having fun) versus the depression the seeker experiences, and they reflect on possible explanations for this reaction. This shows empathy and recognition of the seeker's emotional struggle.
+
+Step 3: Score - 2"
+6m2aki,djzoxjg,"Seeker: Getting a crush while depressed is terrible. You know nothing will happen and you can't get them out your head. At least it rivals suicidal thoughts in frequency though i guess.
+Supporter: Yeah I have a crush on a girl who lives in my same city, she's just perfect, I'd like to talk to her often and to smile when she is near me but I'm just thinking if she would miss me if I die, I was also used to write her but then I stopped thinking that I was annoying her, now I hardly think she is just laughing about me with her friends but I can't get angry with her for that, she's too beautiful.","Step 1: Example — There is no example of the supporter expressing warmth, compassion, or concern toward the seeker in this conversation.
+
+Step 2: Justification — Instead of offering compassion or showing concern for the seeker's situation, the supporter redirects the conversation entirely to their own crush experience. They don't acknowledge the seeker's depression or suicidal thoughts, nor do they express any empathic response to the seeker's emotional state. The supporter's response is completely self-focused without demonstrating warmth or compassion toward the seeker.
+
+Step 3: Score — 0","Step 1: Example - There is no instance where the supporter attempts to explore the seeker's experiences and feelings.
+
+Step 2: Justification - The supporter completely shifts the focus to their own personal situation and crush instead of asking questions about the seeker's experience or feelings. The supporter doesn't ask any questions about the seeker's depression, thoughts about their crush, or how these feelings are affecting them. The entire response is self-focused rather than exploring the seeker's situation.
+
+Step 3: Score - 0","Step 1: Example - ""Yeah I have a crush on a girl who lives in my same city""
+
+Step 2: Justification - The supporter immediately shifts the conversation to talk about their own personal crush situation rather than acknowledging or exploring the seeker's feelings. While they're attempting to relate through sharing a similar experience, they don't actually demonstrate understanding of the seeker's specific situation or emotional state. Instead of validating the seeker's experience of having conflicting feelings about a crush while depressed, the supporter launches into their own story without connecting it back to the seeker's feelings or showing they understand the seeker's emotional struggle.
+
+Step 3: Score - 0"
+9vo55d,e9eqspg,"Seeker: I told my psychiatrist that depression memes were a thing. Just waiting for him to find r/2meirl4meirl
+Supporter: But subs like /r/dragonsfuckingcars totally don't right?","Step 1: Example — N/A
+
+Step 2: Justification — There is no instance where the supporter expresses warmth, compassion, concern, or similar feelings toward the seeker. Instead of engaging with the seeker's mention of depression memes or showing concern about their mental health situation, the supporter makes an irrelevant joke about an unrelated subreddit. The response lacks any expression of care or empathy for the seeker's situation.
+
+Step 3: Score — 0","Step 1: Example - N/A. The supporter does not make any attempt to explore the seeker's experiences or feelings regarding their depression or their interaction with their psychiatrist.
+
+Step 2: Justification - The supporter's response is completely unrelated to the seeker's statement about depression memes and their psychiatrist. Instead of asking questions about how the interaction went, how the seeker feels about sharing memes with their psychiatrist, or exploring any aspect of the seeker's experience, the supporter makes an irrelevant joke about another subreddit. This shows no effort to understand the seeker's situation or emotional state.
+
+Step 3: Score - 0","Step 1: Example - N/A
+
+Step 2: Justification - The supporter's response does not demonstrate any understanding of the seeker's experience with depression or their interaction with their psychiatrist about depression memes. Instead of acknowledging the seeker's sharing of a potentially vulnerable moment with their psychiatrist, the supporter pivots to an unrelated joke about a different subreddit. This response fails to recognize, validate, or engage with the seeker's emotional state or experience.
+
+Step 3: Score - 0"
+88gtly,dwki84l,"Seeker: Pale. Self destruction will probably end me.
+Supporter: The fires we start burn ourselves sometimes.","Step a1: Example — None. The supporter doesn't express warmth, compassion, or concern toward the seeker who is talking about self-destruction.
+
+Step 2: Justification — The response ""The fires we start burn ourselves sometimes"" is a metaphorical statement that acknowledges self-destructive behaviors can harm oneself, but it doesn't contain any language expressing warmth, compassion, or concern. The supporter doesn't use phrases like ""I'm sorry you're feeling this way,"" ""I'm concerned about you,"" or ""I care about what happens to you"" that would demonstrate emotional support or compassion.
+
+Step 3: Score — 0","Step 1: Example - N/A
+
+Step 2: Justification - The supporter's response ""The fires we start burn ourselves sometimes"" is metaphorical but does not attempt to explore the seeker's experiences or feelings. The supporter doesn't ask any questions about the seeker's self-destructive thoughts or feelings, nor do they invite the seeker to elaborate on what they're going through. Instead, they offer a metaphorical statement that doesn't prompt further exploration.
+
+Step 3: Score - 0","Step 1: Example - ""The fires we start burn ourselves sometimes.""
+
+Step 2: Justification - This response is metaphorical and vague, failing to demonstrate a clear understanding of the seeker's specific experiences or feelings. While it acknowledges self-destructive behavior in a poetic way, it doesn't reflect the severity of the seeker's statement about self-destruction potentially ""ending"" them, nor does it show understanding of what the seeker might be going through. The supporter doesn't demonstrate that they genuinely understand the seeker's emotional state or validate their feelings.
+
+Step 3: Score - 0"
+5oc1v6,dcia967,"Seeker: Does anyone else find it hard to enjoy things because you're constantly worried about being depressed again?. Like it's the only thing on your mind and you feel sort of scared that you're going to be sad again.
+Supporter: I'm not afraid to enjoy things - but - I'm afraid to stress myself by having expectations of great times or great results from things I plan. I try not to expect anything at all - because if I'm disappointed it could drop me waaaaaaay down.","Step 1: Example — There is no instance where the supporter expresses warmth, compassion, or concern toward the seeker.
+
+Step 2: Justification — The supporter responds by sharing their own experience with a similar issue, but does not express any compassion, concern, or emotional warmth toward the seeker's situation. They don't acknowledge the seeker's feelings of fear and worry about depression returning, nor do they offer any supportive or caring statements that would demonstrate compassion.
+
+Step 3: Score — 0","Step 1: Example - There is no instance where the supporter attempts to explore the seeker's experiences and feelings. The supporter immediately shares their own experience without asking questions or inviting the seeker to elaborate on their situation.
+
+Step 2: Justification - The supporter focuses entirely on their own experience with ""I'm not afraid to enjoy things..."" and ""I try not to expect anything at all..."" rather than asking open-ended questions or showing curiosity about the seeker's experience. They don't invite the seeker to share more about their fear of becoming depressed again or how this affects them.
+
+Step 3: Score - 0","Step 1: Example - ""I'm not afraid to enjoy things - but - I'm afraid to stress myself by having expectations of great times or great results from things I plan.""
+
+Step 2: Justification - The supporter partially acknowledges the seeker's fear but reframes it in terms of their own experience, which doesn't truly demonstrate understanding of the seeker's specific concern about being depressed again. While they attempt to relate by sharing their own fear of disappointment, they don't validate or reflect the seeker's emotional state of being ""constantly worried"" and ""scared"" about depression returning. The response pivots to the supporter's perspective rather than showing understanding of the seeker's experience.
+
+Step 3: Score - 1"
+92z9nn,e3a2xof,"Seeker: I'm very tired. I think I'd just like to lie down
+Supporter: Same. I just want to sleep and never wake up.","Step 1: Example - N/A
+
+Step 2: Justification - The supporter's response does not express or allude to any warmth, compassion, or concern toward the seeker. Instead, they respond with ""Same. I just want to sleep and never wake up,"" which shifts the focus to their own feelings rather than showing compassion for the seeker's situation. The response lacks any empathic elements like acknowledging the seeker's tiredness, expressing concern for their well-being, or offering supportive statements.
+
+Step 3: Score - 0","Step 1: Example - None. The supporter doesn't ask any questions or make statements that invite the seeker to explore their feelings about being tired or wanting to lie down.
+
+Step 2: Justification - The supporter's response is entirely self-focused, sharing their own feelings about wanting to sleep and never wake up. They don't attempt to understand the seeker's experience, ask follow-up questions, or invite the seeker to elaborate on why they're tired or what's causing them to want to lie down.
+
+Step 3: Score - 0","Step 1: Example - ""Same. I just want to sleep and never wake up.""
+
+Step 2: Justification - The supporter's response acknowledges the seeker's tiredness by saying ""Same,"" showing a basic recognition of their state. However, the supporter immediately shifts to their own, more extreme feeling of wanting to ""sleep and never wake up,"" which goes beyond what the seeker expressed. While there is a minimal attempt to relate to the seeker's fatigue, the supporter doesn't actually demonstrate an understanding of the seeker's specific experiences or emotional state, and instead centers their own, more severe feelings.
+
+Step 3: Score - 1"
+88x2l7,dwnvlat,"Seeker: When does it get better?. I've been on an ssri for three months, running 5km nearly every day, and seeing a counsellor. I feel like I am getting worse. I'm losing all motivation to continue putting in any effort what so ever to be better
+Supporter: I'm in a really depressed mood right now, which caused me to say it doesn't. But if you're losing motivation right now, there are many many ways to feel better that I'm guessing you haven't tried. And I think these things are individual, so it's hard to find the certain things, but I know you can do it. And maybe try a different counsellor if they aren't the best fit. How's your diet? How are you doing socially? So never lose hope.","Step 1: Example — ""I know you can do it.""
+
+Step 2: Justification — This statement shows a mild level of concern and encouragement for the seeker, expressing belief in the seeker's ability to overcome their challenges. However, the response lacks stronger expressions of warmth or compassion that directly acknowledge the seeker's struggle or emotional pain.
+
+Step 3: Score — 1","Step 1: Example - ""How's your diet? How are you doing socially?""
+
+Step 2: Justification - These questions represent an attempt to explore the seeker's experiences beyond what was initially shared. The supporter is trying to understand other aspects of the seeker's life that might be affecting their mental health, specifically their diet and social life. However, these questions are relatively brief and come after several statements of the supporter's own perspective, rather than deeper exploration of what the seeker is experiencing emotionally or with their current treatment approach.
+
+Step 3: Score - 1","Step 1: Example - ""I'm in a really depressed mood right now, which caused me to say it doesn't."" 
+
+Step 2: Justification - This demonstrates minimal understanding of the seeker's experience, as the supporter briefly acknowledges the concept of depression but immediately frames it in terms of their own current mood rather than engaging with the seeker's expressed feelings of worsening despite their efforts. The supporter doesn't reflect or validate the seeker's sense of frustration, decline in motivation, or their question about when things will improve. Instead of connecting with the seeker's emotional state, the supporter pivots to suggestions without showing they truly understand what the seeker is experiencing.
+
+Step 3: Score - 0"
+ajccfi,eeujjeh,"Seeker: can’t go to school anymore. i been to college in weeks because i just have no motivation to go. i know i should go but i just care anymore. i care about my future anymore. everything feels so pointless and struggling to find any reason to live
+Supporter: I remember when I was in a deep stage of depression I always begged my mother to let me stay home. Even when she drove me to school, I would catch a bus to the shops and ditch school. (Never got caught hehe) Anyway, I just felt so.. bored of school and so sick of all the shit that went down there. Instead, I decided to live my life, have fun, sleep, ditch school or do whatever and just live the life as I wanted to. If you cant find motivation in one thing, than find motivation in another. After all we're all gonna die one day, live your life as you want.","Step 1: Example - There is no clear expression of warmth, compassion, or concern directed toward the seeker in this response.
+
+Step 2: Justification - The supporter shares their own personal experience of depression and skipping school, but doesn't express concern about the seeker's wellbeing or show compassion for their struggle. The supporter encourages the seeker to ""live your life as you want"" without acknowledging the seeker's emotional pain or expressing care about their feelings of pointlessness or struggles to find reasons to live. The response lacks empathic statements that would demonstrate warmth or concern.
+
+Step 3: Score - 0","Step 1: Example - There is no instance where the supporter attempts to explore the seeker's experiences and feelings. The supporter shares their own experience with depression and school avoidance, but never asks questions or invites the seeker to elaborate on their feelings of pointlessness, lack of motivation, or struggles with finding reasons to live.
+
+Step 2: Justification - The supporter's response is entirely self-focused, telling their own story about ditching school and encouraging the seeker to ""live your life as you want."" At no point does the supporter ask open-ended questions, invite elaboration, or show curiosity about the seeker's emotional state, despite the seeker sharing concerning thoughts about struggling to find a reason to live.
+
+Step 3: Score - 0","Step 1: Example - ""I remember when I was in a deep stage of depression I always begged my mother to let me stay home... I just felt so.. bored of school and so sick of all the shit that went down there.""
+
+Step 2: Justification - The supporter shares their own experience with depression and lack of motivation for school, which demonstrates some understanding of what the seeker is experiencing. They acknowledge the feeling of being ""bored"" and ""sick of"" school, which partially mirrors the seeker's expressed lack of motivation and feelings that things are ""pointless."" However, the response is primarily self-focused rather than truly reflecting an understanding of the seeker's specific emotional state, particularly missing the severity of the seeker's struggle (""struggling to find any reason to live"").
+
+Step 3: Score - 1"
+5pklsj,dcs78f7,"Seeker: Someone jumped in front of a train near my house and I can't help feeling jealous.. I wish I could be that brave.
+Supporter: I'm from Germany, so waiting for the fucking train is no option, would more likely freeze to death waiting","Step 1: Example - N/A
+
+Step 2: Justification - The supporter's response does not express or allude to any warmth, compassion, concern, or similar feelings toward the seeker. Instead of acknowledging the seeker's disturbing thoughts about suicide or showing empathy for their mental state, the supporter makes a joke about German trains being late. This completely fails to address the serious nature of the seeker's message about suicidal ideation and comparison to someone who died by suicide.
+
+Step 3: Score - 0","Step 1: Example - No instance where the supporter attempts to explore the seeker's experiences and feelings.
+
+Step 2: Justification - The supporter completely ignores the seeker's emotional state and their concerning statement about feeling jealous of someone who died by suicide. Instead of asking questions about the seeker's feelings or experiences, the supporter makes a joke about German trains being late. This response shows no attempt to understand or explore the seeker's mental state or suicidal ideation.
+
+Step 3: Score - 0","Step 1: Example - N/A
+
+Step 2: Justification - The supporter does not demonstrate any understanding of the seeker's experiences or feelings. Instead of acknowledging the seeker's suicidal ideation, distress, or emotional state, the supporter makes a joke about German trains being unreliable. This response completely misses the serious nature of the seeker's message and fails to recognize their emotional pain.
+
+Step 3: Score - 0"
+78539v,dor647q,"Seeker: I told my boyfriend today that i have been feeling really unmotivated this semester. And he tells me, Here's the thing, I take a pill. Taking a pill is not an option for you. Have you tried forcing yourself to be motivated?. I just told him thanks. I feel hurt, but I can't explain why or if I should even feel this way. I don't know.
+Supporter: I feel the same way, I am single and have problems socially. So being alone makes my motivation worse and makes me really depressed. I am failing most of my classes this semester and don't seem to have motivation to make a rebound. Just know that theres people out there going through what your going through and I am here to at least give you assurance that you aren't alone in situations like this. I don't like it when people tend to say just force yourself to be motivated, but I am just lazy and hopeless at this point. I wish the best for you and I actually was on pill medication for this sort of stuff at a point, so if you got questions about that or anything in general maybe I can make use of myself and help someone out who needs it more than I do.","Step 1: Example - ""Just know that theres people out there going through what your going through and I am here to at least give you assurance that you aren't alone in situations like this... I wish the best for you...""
+
+Step 2: Justification - The supporter expresses compassion by reassuring the seeker they aren't alone, explicitly stating they are ""here"" for the seeker, and expressing good wishes for them. These statements show concern for the seeker's wellbeing and a desire to provide emotional comfort.
+
+Step 3: Score - 1","Step 1: Example - ""I feel the same way, I am single and have problems socially. So being alone makes my motivation worse and makes me really depressed.""
+
+Step 2: Justification - While the supporter shares their own similar experience with motivation issues, they do not actually ask any questions or make direct attempts to explore the seeker's unique experiences and feelings. The supporter focuses primarily on their own situation rather than inviting the seeker to elaborate on their feelings about their boyfriend's response or their motivation struggles. There is no attempt to ask about why the seeker feels hurt or to encourage them to share more about their specific circumstances.
+
+Step 3: Score - 0","Step 1: Example - ""I don't like it when people tend to say just force yourself to be motivated"" 
+
+Step 2: Justification - This statement shows that the supporter understands the seeker's frustration with their boyfriend's unhelpful advice to ""force yourself to be motivated."" The supporter acknowledges that this type of advice is insensitive and indicates they understand why the seeker would feel hurt by such a response.
+
+Step 3: Score - 1"
+4re82s,d50d07m,"Seeker: i fucking manned up and told my SO what my priorities were. i feel anxious like hell but it feels pretty good.
+Supporter: Good for you! I know for me, speaking up for myself can be hard. But it's a step in the journey!","Step 1: Example - ""Good for you! I know for me, speaking up for myself can be hard.""
+
+Step 2: Justification - The supporter shows warmth through their enthusiastic affirmation (""Good for you!"") and demonstrates compassion by relating to the seeker's experience of anxiety, acknowledging that speaking up can be difficult. This creates a sense of connection and understanding, though it could be strengthened with more explicit expressions of care or concern for the seeker's emotional state.
+
+Step 3: Score - 1","Step 1: Example - ""I know for me, speaking up for myself can be hard.""
+
+Step 2: Justification - While the supporter does acknowledge that speaking up can be difficult (which relates to the seeker's anxiety), they don't ask any follow-up questions about the seeker's experience or feelings. They don't ask about what the priorities were, how the conversation went, or explore the mixed emotions the seeker expressed (anxiety but also feeling good). The supporter provides validation but doesn't make a meaningful attempt to explore the seeker's situation further.
+
+Step 3: Score - 0","Step 1: Example - ""I know for me, speaking up for myself can be hard.""
+
+Step 2: Justification - The supporter demonstrates understanding of the seeker's experience by acknowledging that speaking up about priorities can be difficult, which aligns with the seeker's mentioned anxiety. The supporter recognizes the mixed emotions (anxiety alongside accomplishment) that the seeker is experiencing, showing empathy for their situation.
+
+Step 3: Score - 1"
+9y3cea,eb4ngh9,"Seeker: Having a will to live is insanity. I firmly belive that wanting to live this hell hole of a struggle called life is completely bat shit insane. Who in the fuck can justify all the misery for the little dopamine Highs we get every so often. Maybe the suicidal ones are the sane ones, the ones who understand that it just dosnt fuckin matter. Life fuckin sucks, it's a fact. How are we the mentally Ill ones for understanding that to its truest extent. We see life as it is, a fucking hellhole that's justified by bullshit excuses.
+Supporter: what life path are you","Step 1: Example — N/A
+
+Step 2: Justification — There is no instance where the supporter expresses or alludes to warmth, compassion, concern, or similar feelings toward the seeker. The supporter's response ""what life path are you"" does not acknowledge the seeker's emotional distress, validate their feelings, or show any compassionate concern for their well-being. The response appears disconnected from the seeker's expressed existential pain and suicidal ideation.
+
+Step 3: Score — 0","Step 1: Example - ""what life path are you""
+
+Step 2: Justification - The supporter's question attempts to learn more about the seeker's life situation, which could be seen as a very minimal attempt to explore the seeker's experiences. However, the question is very brief, vague, and doesn't directly address any of the intense emotional content the seeker has shared about their existential despair, suicidal thoughts, or views on life being a ""hellhole."" The question doesn't specifically inquire about their feelings or experiences related to the crisis they're expressing.
+
+Step 3: Score - 1","Step 1: Example - N/A
+
+Step 2: Justification - The supporter does not demonstrate any understanding of the seeker's experiences or feelings. The seeker expressed deep existential distress, nihilistic views about life, and questioning why suicidal thoughts are considered mental illness rather than clarity. Instead of acknowledging or validating any of these complex feelings, the supporter responded with an unrelated question about the seeker's ""life path"" that fails to engage with or show understanding of the seeker's emotional state.
+
+Step 3: Score - 0"
+9u1441,e90or0r,"Seeker: idk what’s worse. being alone or not wanting to be alone
+Supporter: Being alone is difficult. Honestly it helps to reach out. I reconnected with an old friend. We hadn't been in touch for couple years over a petty argument and a bad experience being roommates. Anyone in your life you could reach out to?","Step 1: Example - ""Being alone is difficult.""
+
+Step 2: Justification - The supporter acknowledges the seeker's emotional struggle with being alone by validating that it is ""difficult."" This statement shows basic understanding and recognition of the seeker's emotional state, which demonstrates a minimal level of compassion. However, the supporter doesn't strongly express deeper emotional warmth or concern beyond this initial acknowledgment. They quickly transition to suggesting solutions rather than fully exploring the seeker's feelings or expressing more explicit care or compassion.
+
+Step 3: Score - 1
+
+AI: The score is a numerical representation of how well the supporter performed the behavior on a 0-2 Likert scale where 0 is No instance, 1 is weak instance, 2 is strong instance.","Step 1: Example - ""Being alone is difficult. Honestly it helps to reach out.""
+
+Step 2: Justification - While the supporter acknowledges that ""being alone is difficult,"" they quickly pivot to sharing their own experience and offering suggestions without first exploring the seeker's specific feelings or experiences with loneliness. They don't ask open-ended questions about what the seeker means by ""being alone"" or ""not wanting to be alone,"" which would have helped explore the seeker's unique situation. Instead, they move directly into solution mode by suggesting reaching out to someone and sharing their personal anecdote.
+
+Step 3: Score - 1","Step 1: Example - ""Being alone is difficult.""
+
+Step 2: Justification - The supporter begins with a brief validation that acknowledges the seeker's implied feeling that being alone is challenging. However, they don't deeply explore or reflect the seeker's dilemma about the conflict between being alone versus not wanting to be alone. The supporter quickly pivots to sharing their own experience and offering solutions rather than demonstrating a deeper understanding of the seeker's emotional state or the complexity of their situation.
+
+Step 3: Score - 1"
+a2bynd,eawx6f6,"Seeker: Sad and drunk. That's me right now. I've been trying everything to get better but I can't. But I also don't freel like I have the strength to kill myself. It's so hard being in between like this
+Supporter: I feel that it's hard to exist. It hurts. But I'm scared to kill my self. What if things get better? If I killed myself I wouldn't be there to enjoy the things in life that I wish for. what the fuck do I do?","Step 1: Example - There is no clear expression of warmth, compassion, or concern toward the seeker in the supporter's response. Instead, the supporter redirects the conversation to their own feelings and struggles with suicidal thoughts.
+
+Step 2: Justification - The supporter fails to show warmth or compassion toward the seeker's expressed pain. They don't acknowledge the seeker's specific emotional state or show concern for their wellbeing. Rather than offering empathy directed at the seeker like ""I'm sorry you're feeling this way"" or ""I care about what you're going through,"" the supporter shifts focus to their own similar experiences without expressing care for the seeker's situation.
+
+Step 3: Score - 0","Step 1: Example - ""what the fuck do I do?""
+
+Step 2: Justification - This is the closest thing to an attempt to explore the seeker's experiences or feelings, but it's not truly exploration-focused. The supporter mostly shares their own feelings and thoughts rather than asking questions or encouraging the seeker to elaborate on their experience. The final question could potentially invite the seeker to share more, but it appears more rhetorical and self-focused rather than genuinely attempting to understand the seeker's unique situation.
+
+Step 3: Score - 0","Step 1: Example - ""I feel that it's hard to exist. It hurts. But I'm scared to kill my self.""
+
+Step 2: Justification - The supporter demonstrates some understanding of the seeker's difficult emotional state by acknowledging that existence is hard and painful, and reflecting the seeker's ambivalence about suicide. They mirror the seeker's expression of being caught ""in between"" - wanting relief from pain but not having the strength to end their life. However, the supporter quickly shifts to their own personal perspective rather than focusing on the seeker's specific experiences and emotions.
+
+Step 3: Score - 1"
+7yo4vo,duhyac3,"Seeker: I’ve been fighting tears all day today.. been at work since 7am and been fighting back tears all damn day. just so damn lonely. I have friends and a gf but for some reason just not happy and I feel like I have nobody.
+Supporter: I feel the same and i think its because i have nobody to talk to, nobody to be vulnerable to and let them know how i feel inside. Why dont you try to talk to your girlfriend, i bet if she'd new she'd try to help. Open up to her! Hope it goes well :)","Step 1: Example - ""Hope it goes well :)""
+
+Step 2: Justification - This statement shows a small degree of concern for the seeker's wellbeing by expressing a positive wish for their future interactions. The smiley face emoticon adds a touch of warmth to the message. However, the expression of compassion is quite brief and comes only at the end of the message, without deeper expressions of empathy toward the seeker's profound loneliness and emotional struggle described in their message.
+
+Step 3: Score - 1","Step 1: Example - ""I feel the same and i think its because i have nobody to talk to, nobody to be vulnerable to and let them know how i feel inside.""
+
+Step 2: Justification - While the supporter shares their own similar feelings, they don't actually explore the seeker's specific experiences or feelings. They don't ask any open-ended questions about why the seeker feels lonely despite having friends and a girlfriend, or what might be contributing to their unhappiness. Instead, they quickly move to giving advice without first exploring the seeker's unique situation.
+
+Step 3: Score - 0","Step 1: Example - ""I feel the same""
+
+Step 2: Justification - The supporter briefly acknowledges they understand the seeker's feelings by stating they feel the same way. This shows some understanding of the loneliness the seeker is experiencing. However, the supporter quickly moves to their own experience and assumptions rather than deeply exploring or reflecting the seeker's specific situation of feeling lonely despite having friends and a girlfriend. They don't acknowledge the emotion of fighting tears all day or the paradox of feeling lonely while having relationships.
+
+Step 3: Score - 1"
+aivw81,eer413s,"Seeker: Does anyone else get depressed after/while reading a romantic story because you just feel so unlovable and hopeless. Bc I do, and I want to relate to someone desperately
+Supporter: I dont read romantic books but this is why I hate romantic movies/shows","Step 1: Example — N/A
+
+Step 2: Justification — The supporter's response does not express or allude to any warmth, compassion, or concern toward the seeker. They simply state their own experience with romantic media (""I dont read romantic books but this is why I hate romantic movies/shows"") without acknowledging the seeker's expressed feelings of being unlovable, hopeless, or their desire to relate to someone. There is no expression of empathy, validation of the seeker's feelings, or compassionate response to their emotional state.
+
+Step 3: Score — 0","Step 1: Example - ""I dont read romantic books but this is why I hate romantic movies/shows""
+
+Step 2: Justification - While the supporter shares their own similar experience with romantic media, they don't ask any questions or make any attempt to explore the seeker's feelings of being ""unlovable and hopeless"" which were explicitly mentioned. The supporter doesn't ask follow-up questions about why the seeker feels this way or invite them to elaborate on their experience.
+
+Step 3: Score - 0","Step 1: Example - ""I dont read romantic books but this is why I hate romantic movies/shows""
+
+Step 2: Justification - The supporter somewhat acknowledges and relates to the seeker's experience by indicating they have a similar reaction to romantic media, though in a different format (movies/shows rather than books). This shows partial understanding of the seeker's emotional experience of feeling depressed when consuming romantic content, though it doesn't directly address the deeper feelings of being ""unlovable and hopeless"" that the seeker expressed.
+
+Step 3: Score - 1"
+9v6l4y,e9a6rlo,"Seeker: I feel like I'm sinking. My time is almost up
+Supporter: Why do you feel your time is almost up?","Step 1: Example — The supporter asks ""Why do you feel your time is almost up?"" which shows some interest in understanding the seeker's situation.
+
+Step 2: Justification — While the supporter is asking a question that shows they want to understand more about the seeker's situation, the response lacks explicit expressions of warmth, compassion, or concern. The question is direct and functional but doesn't contain language that communicates emotional warmth or explicit concern for the seeker's wellbeing. There are no phrases like ""I'm sorry you're feeling this way,"" ""I'm concerned about you,"" or any other expression that directly conveys compassion or emotional support.
+
+Step 3: Score — 0","Step 1: Example - ""Why do you feel your time is almost up?""
+
+Step 2: Justification - The supporter asks an open-ended question that directly invites the seeker to elaborate on their feelings about ""time being almost up."" This question attempts to explore the underlying meaning behind the seeker's statement and encourages them to share more about their emotional experience and perspective.
+
+Step 3: Score - 2","Step 1: Example - ""Why do you feel your time is almost up?""
+
+Step 2: Justification - The supporter's response does not demonstrate an understanding of the seeker's experiences and feelings. Rather than acknowledging or validating the seeker's distressing feeling of ""sinking"" or that their ""time is almost up"" (which suggests serious emotional distress), the supporter simply asks a question without first showing empathy or communicating that they understand the gravity of what the seeker is expressing. The response skips over validating the seeker's emotions and moves straight to questioning, which doesn't demonstrate understanding.
+
+Step 3: Score - 0"
+46rnxz,d07n05c,"Seeker: Physical Pain Caused by Depression. I was wondering what other people's experience with physical pain caused by depression has been? I'm referring to the pain that feels like your heart has been shredded to pieces and anything like that, not including pain from your mind. Has painkillers (like ibuprofen) helped to get ease that or has that not really worked for anyone?
+Supporter: Yes, I sometimes have that type of pain. Ibuprofen definitely doesn't help. I don't know of anything that does.","Step 1: Example — There is no clear expression or allusion to warmth, compassion, or concern in the supporter's response. The supporter simply confirms their own experience with physical pain from depression and states that ibuprofen doesn't help, without expressing any emotional support or concern for the seeker.
+
+Step 2: Justification — The supporter's response is informative but lacks any language that would convey emotional warmth or compassion. They don't use phrases like ""I'm sorry you're experiencing this,"" ""I understand how difficult that must be,"" or other expressions that would show concern for the seeker's well-being. The response is factual rather than emotionally supportive.
+
+Step 3: Score — 0","Step 1: Example - None present. The supporter doesn't ask any questions or make any statements that would help explore the seeker's experiences and feelings further.
+
+Step 2: Justification - The supporter only shares their own experience with physical pain from depression and their experience with ibuprofen not working. They don't ask the seeker to elaborate on their experiences, don't inquire about the severity or frequency of the seeker's pain, and don't explore what the seeker is going through emotionally.
+
+Step 3: Score - 0","Step 1: Example - ""Yes, I sometimes have that type of pain.""
+
+Step 2: Justification - The supporter directly acknowledges they've experienced the same type of physical pain that the seeker is describing (the pain that feels like ""your heart has been shredded to pieces""). This shows a basic understanding of what the seeker is going through by confirming they've had a similar experience. However, the understanding expressed is minimal, focusing only on recognizing the experience without elaborating on the emotional aspect or showing deeper understanding of what this pain means to the seeker.
+
+Step 3: Score - 1"
+9t0b89,e8txotz,"Seeker: Cyclothymia. I have just been diagnosed with cyclothymia and am terrified because changing my meds. My meds been working the greatest, but so scared to switch them up. Does anyone else have experience with cyclothymia? just now for the first time in my life recognizing the symptoms I have.
+Supporter: I was diagnosed with it when I was 15, and I am 22 now. For my antidepressant, I tried lexapro ( which i stopped taking; because, it made my dick stop working), and wellbutrin.. which was alright. My antipsychotic was risperidone.. which I honestly am still dealing with a side affect of it till this day. I'll be honest, I took those combination of drugs for like 2.5 years, and just stopped. I learned how to deal with the symptoms a lot better than I did from years prior.. looking back.. thst could've gone poorly. I'd recommend being open in discussion with your psychiatrist about the effects these drugs are having on your body and your mood. There are quite a few drug combinations for this type of diagnosis, and it would be wise to work dilligently with your psychiatrist until you find the combination for you. Don't be afraid of them changing your meds. They aren't work anyway, so you may as well be open to working with professionals to find something that works for you and your body. I'd also recommend to try being aware as possible if the symptoms, the triggers for those symptoms, and look to grow from them even while on these medications. Keep a close eye out for unwanted side effects. A lot of the medicines they may try to prescribe would require regular schedules blood work. I'll be honest, I did the irresponsible thing and ended up just not taking them. I got tired of taking medicine at that point; because, I had been taking it all my life. Whether it was for childhood epilepsy, ADHD, depression, and the last diagnosis cyclothymia. Was hospitalized twice before I got the cyclothymia diagnosis, and it was pretty bad at one point, and looking back.. I'm really lucky I didn't mess myself up by just stopping cold turkey. Work with your psychiatrist and maybe even work with a therapist if you can. Do all you can do to find the proper treatment, and YOU WILL BE OKAY. You are not","Step 1: Example - ""YOU WILL BE OKAY. You are not"" (presumably meant to continue with something reassuring before being cut off)
+
+Step 2: Justification - This statement demonstrates clear compassionate concern for the seeker's wellbeing. The supporter uses capitalization to emphasize their reassurance and conviction that the seeker will get through this difficult time with medication changes. This shows warmth and a genuine desire to comfort someone who expressed being ""terrified"" about their situation.
+
+Step 3: Score - 1","Step 1: Example of exploring seeker's experiences and feelings:
+""Don't be afraid of them changing your meds. They aren't work anyway, so you may as well be open to working with professionals to find something that works for you and your body.""
+
+Step 2: Justification:
+This statement acknowledges the seeker's fear about changing medications and attempts to understand their current situation (that their current meds aren't working well). However, the supporter mainly focuses on sharing their own experience rather than asking questions to explore the seeker's specific experiences, feelings, or concerns about their diagnosis and medication changes. The supporter does not ask open-ended questions that would invite the seeker to elaborate on their fears or specific symptoms.
+
+Step 3: Score: 1","Step 1: Example - ""I was diagnosed with it when I was 15, and I am 22 now... Don't be afraid of them changing your meds. They aren't work anyway, so you may as well be open to working with professionals to find something that works for you and your body.""
+
+Step 2: Justification - The supporter demonstrates understanding of the seeker's experience by sharing their own history with cyclothymia and acknowledging the seeker's fear about changing medications. They directly address the seeker's concern about switching meds and validate that the current medications aren't working well anyway, showing they understand the seeker's situation.
+
+Step 3: Score - 2"
+64vfny,dg5dua3,"Seeker: Living is hard. It sucks. I'm tired of school. Im tired of work. I'm just tired of everything.
+Supporter: What do you like to do?","Step 1: Example - None present
+
+Step 2: Justification - The supporter's response ""What do you like to do?"" does not express or allude to any warmth, compassion, concern, or similar feelings toward the seeker. The response completely bypasses acknowledging the seeker's emotional state of being tired and finding life difficult. Instead of showing empathy or compassion for these feelings, the supporter immediately jumps to a question that doesn't validate or show concern for the seeker's expressed distress.
+
+Step 3: Score - 0","Step 1: Example - ""What do you like to do?""
+
+Step 2: Justification - While the supporter does ask a question, it doesn't directly explore the seeker's expressed negative feelings of being tired of school, work, and ""everything."" Instead of exploring the current distress, the question shifts to a different topic (what the seeker likes) without acknowledging or investigating the feelings the seeker just shared. An exploration of experiences and feelings would involve questions about why the seeker finds living hard, what about school and work is making them tired, or how long they've been feeling this way.
+
+Step 3: Score - 0","Step 1: Example - N/A
+
+Step 2: Justification - The supporter's response ""What do you like to do?"" does not acknowledge or reflect any understanding of the seeker's expressed feelings of exhaustion, difficulty, and dissatisfaction with life. The supporter immediately shifts to asking about the seeker's interests without first validating or showing comprehension of the seeker's emotional state. There is no attempt to mirror the seeker's words, validate their feelings, or demonstrate understanding of their experience.
+
+Step 3: Score - 0"
+7rmqzi,dsy41wd,"Seeker: I'm so ready to die. There is nothing for me in this life
+Supporter: but how can you play sims when you're dead? jokes aside, don't do anything okay, calm down. life will bring beauty, hang on.","Step 1: Example - ""don't do anything okay, calm down. life will bring beauty, hang on.""
+
+Step 2: Justification - The supporter expresses concern for the seeker's well-being by directly asking them not to do anything harmful. They also try to offer reassurance that ""life will bring beauty"" and encourages them to ""hang on,"" which shows some level of care for the seeker's future. However, the concern is expressed somewhat abruptly after making a joke, and the tone comes across as more commanding (""calm down"") than warmly compassionate.
+
+Step 3: Score - 1","Step 1: Example - There is no clear attempt to explore the seeker's experiences or feelings in the response.
+
+Step 2: Justification - The supporter immediately shifts to making a joke about The Sims, then gives generic reassurance without asking any questions or inviting the seeker to elaborate on why they feel ready to die or what's making them feel there's nothing in life for them. At no point does the supporter ask an open-ended question or show curiosity about the seeker's feelings or situation.
+
+Step 3: Score - 0","Step 1: Example - There is no clear instance where the supporter communicates an understanding of the seeker's experiences and feelings.
+
+Step 2: Justification - The supporter does not reflect or validate the seeker's expressed despair or suicidal ideation. Instead, they make a joke about the Sims game, followed by directives to ""calm down"" and generic reassurance that ""life will bring beauty."" The response fails to acknowledge the depth of the seeker's pain or demonstrate understanding of their emotional state.
+
+Step 3: Score - 0"
+96kkj0,e4173mc,"Seeker: Lexapro and Abilify. Has anyone been on this combination? If so can you give some insight?
+Supporter: on it right now, but I be much help as I have been known to be treatment resistant and for me it does about the same as the rest as in it more so numbs me to all feeling but is not as strong as others in that way so i still sunk low quite a bit, but on like 7 or 8 different meds in the past 6 years so my experience mean to much, I hope it works great for you though. If you mind me asking what is the dosage your on for them?","Step 1: Example - ""I hope it works great for you though.""
+
+Step 2: Justification - This statement directly expresses warm wishes and concern for the seeker's wellbeing. The supporter is showing compassion by expressing their genuine hope that the medication combination will be effective for the seeker, even though it wasn't particularly helpful for the supporter themselves.
+
+Step 3: Score - 1","Step 1: Example - ""If you mind me asking what is the dosage your on for them?""
+
+Step 2: Justification - This question at the end of the supporter's message shows a limited attempt to explore the seeker's experience with medication. The supporter asks about the seeker's dosage, which is a basic inquiry into their specific situation with the medications mentioned. However, this is a fairly narrow question that doesn't deeply explore the seeker's emotional experiences or concerns about the medication.
+
+Step 3: Score - 1","Step 1: Example - ""I be much help as I have been known to be treatment resistant and for me it does about the same as the rest as in it more so numbs me to all feeling but is not as strong as others in that way so i still sunk low quite a bit""
+
+Step 2: Justification - The supporter attempts to communicate some understanding by sharing their own experience with the medication combination, but they don't actually acknowledge or validate the seeker's experiences or feelings. The supporter focuses entirely on their own experience without demonstrating understanding of what the seeker might be going through or feeling about trying this medication combination. There's no reflection of potential concerns, hopes, or anxieties the seeker might have.
+
+Step 3: Score - 0"
+857ps1,dvve0kf,"Seeker: I slept my entire week away. I've slept 12+ hours everyday this week and missed all my classes, didn't hand in an assignment and I don't care. I think I'm going to fail two classes this semester. I don't know what I'm going to do. I can't see myself finishing my degree.
+Supporter: You are in a difficult life situation and you seem to be a young guy. Does your family knows you are having a hard time in college?","Step 1: Example - ""You are in a difficult life situation""
+
+Step 2: Justification - This statement acknowledges that the seeker is going through a challenging time, which shows a basic level of concern for their situation. However, the supporter doesn't explicitly express warmth or compassion beyond this brief acknowledgment. The response lacks stronger expressions of empathy such as ""I'm sorry you're going through this"" or ""That sounds really tough"" that would demonstrate deeper emotional connection or concern.
+
+Step 3: Score - 1
+
+AI: 1","Step 1: Example - ""Does your family knows you are having a hard time in college?""
+
+Step 2: Justification - The supporter asks a question that attempts to explore one aspect of the seeker's situation (family awareness of their struggles), but it doesn't explicitly explore the seeker's emotional experiences or feelings about sleeping excessively, missing classes, potential failure, or their concerns about not finishing their degree. The question is somewhat closed-ended and focuses on external circumstances rather than the seeker's internal experience.
+
+Step 3: Score: 1","Step 1: Example - ""You are in a difficult life situation""
+
+Step 2: Justification - The supporter acknowledges that the seeker is going through a difficult time, which shows some recognition of their situation. However, this is a very general acknowledgment that doesn't specifically address the seeker's expressed feelings of apathy, potential failure, and hopelessness about completing their degree. The supporter doesn't reflect back the seeker's emotional state or demonstrate a deeper understanding of what the seeker is experiencing with their excessive sleep, missed classes, and concerns about failing.
+
+Step 3: Score - 1"
+8w0orm,e1ruepi,"Seeker: I seem to always be the first to try and help someone else with their problems, yet when I need help nobody seems to be around to be an open ear for me, I wish I had someone in real life who cared enough to listen to me and just let me spill everything out. Anyone else feel this way?
+Supporter: I'm not entirely certain what reaction you're getting, but I hope you'll give those around you a little slack if they can't be as openly receptive and caring as you need at first. I'm sort of the designated problem solver in my circle, so quite a few of my friends come to me for advice and sympathy. It's never, never a burden. Instead, it's an honor. They trust me with their secrets, their problems, and value my opinion enough to ask for it. Reverse the situation. Aren't you glad when someone comes to you? The thing is, not everyone is built for that. Especially, I have found, it can sort of weird people out when the Rock, the Stable One, the One Person In This Messed Up World Who Has Their Stuff Together needs help. I mean, here's the person they go to and they rely on when they need support... and that person needs support. Suddenly you're not Superman anymore and it can be a bit disconcerting. Perhaps try introducing A problem at a time, slowly, and seeing if they can get used to you also being a normal human with issues. Good luck!!","Step 1: Example - ""It's never, never a burden. Instead, it's an honor."" and ""Good luck!!""
+
+Step 2: Justification - The supporter shows warmth and compassion by emphasizing that helping others is an ""honor"" rather than a burden, validating the seeker's role as a helper. The supporter also shows concern by wishing the seeker ""Good luck!!"" at the end, indicating care for their situation and a genuine desire for things to improve for them.
+
+Step 3: Score - 1","Step 1: Example - ""I'm not entirely certain what reaction you're getting"" and ""Perhaps try introducing A problem at a time, slowly, and seeing if they can get used to you also being a normal human with issues.""
+
+Step 2: Justification - The supporter makes a minimal attempt to explore the seeker's experiences by acknowledging they don't fully understand the situation (what reactions the seeker is getting) and later suggests a potential approach that implies some curiosity about the seeker's situation. However, the supporter mainly shares their own perspective and advice rather than asking questions to better understand the seeker's specific experiences and feelings. They don't ask follow-up questions about what specifically happens when the seeker needs help, how it makes them feel, or what kind of support they're looking for.
+
+Step 3: Score - 1","Step 1: Example - ""I'm sort of the designated problem solver in my circle, so quite a few of my friends come to me for advice and sympathy... Reverse the situation. Aren't you glad when someone comes to you? The thing is, not everyone is built for that. Especially, I have found, it can sort of weird people out when the Rock, the Stable One, the One Person In This Messed Up World Who Has Their Stuff Together needs help.""
+
+Step 2: Justification - The supporter demonstrates understanding of the seeker's experience by relating to being the designated helper in their own social circle. They validate the seeker's frustration by acknowledging the difficulty when someone who is typically the supporter needs support themselves. The supporter shows they understand the dynamic of being the person others rely on but not receiving the same support in return.
+
+Step 3: Score - 2"
+43dc0h,czhnmqd,"Seeker: Early signs of depression?. What are your experiences with early sign of depression?
+Supporter: For me, I knew something was wrong when I had my first breakdown. I used to tell myself that I was tired or just lazy because I couldn't get things done. In actual fact, I had no motivation left in me. However, after that episode, it got worse for me because I felt all alone as I had no one to confide to, especially when my first breakdown was in front of my family.","Step 1: Example — There is no clear expression or allusion to warmth, compassion, or concern toward the seeker in this response. The supporter shares their personal experience with depression but doesn't directly express compassion or concern for the seeker's situation.
+
+Step 2: Justification — While the supporter is open about their own experience, which shows a willingness to engage, they don't include statements that demonstrate warmth (like ""I'm sorry you're going through this"") or concern (like ""How are you feeling about this?""). They focus entirely on sharing their experience without directly acknowledging the seeker's emotional needs or expressing care toward them.
+
+Step 3: Score — 0","Step 1: Example - The supporter doesn't make an attempt to explore the seeker's experiences and feelings. Instead, they focus entirely on sharing their own personal experience with depression.
+
+Step 2: Justification - While the supporter shares their own experience with depression symptoms, they don't ask any questions or make any statements that would invite the seeker to elaborate on their own situation or feelings. The supporter's response is solely focused on their personal story without attempting to understand the seeker's specific circumstances or emotional state. They don't ask follow-up questions like ""Are you noticing any particular changes in your life?"" or ""What has you concerned about depression?""
+
+Step 3: Score - 0","Step 1: Example - The supporter doesn't directly communicate understanding of the seeker's experiences or feelings. Instead, they immediately pivot to sharing their own experience with depression without first acknowledging or showing understanding of the seeker's situation.
+
+Step 2: Justification - While sharing personal experiences can sometimes be helpful, the supporter doesn't first establish understanding of the seeker's situation. The seeker asked about early signs of depression, seemingly seeking information, but the supporter jumps straight into their personal narrative without acknowledging the seeker's question or expressing empathy for why they might be asking. There's no validation or reflection of the seeker's potential concerns before launching into self-disclosure.
+
+Step 3: Score - 0
+
+AI: 0"
+4kz2qw,d3j6efd,"Seeker: I think one of my issues is that I don't want to interact with, or even acknowledge, my own body. Does that make sense?. I think it's part of a whole detachment thing where I try to feel like I don't exist or like my life isn't really happening.
+Supporter: Absolutely. I always dream from the POV of someone else (usually imaginary). Reading novels and trying to forget reality feels better too.","Step 1: Example — There is no clear expression or allusion to warmth, compassion, or concern in the supporter's response. The supporter says ""Absolutely"" to acknowledge the seeker's experience, but then immediately shifts to sharing their own similar experiences without expressing any compassionate feelings toward the seeker.
+
+Step 2: Justification — While the supporter attempts to normalize the seeker's experience by sharing their own similar experiences (reading novels, dreaming from someone else's POV), they don't express any warmth, compassion, or concern for what the seeker is going through. They acknowledge the experience but don't show emotional care or concern for how the detachment might be affecting the seeker.
+
+Step 3: Score — 0","Step 1: Example - There is no clear attempt to explore the seeker's experiences and feelings in the supporter's response. The supporter simply shares their own similar experiences without asking any questions or inviting the seeker to elaborate further on their feelings of detachment or body issues.
+
+Step 2: Justification - While the supporter acknowledges the seeker's experience by saying ""Absolutely"" and sharing their own similar experiences, they don't ask any follow-up questions or invite the seeker to explain more about their feelings of detachment or body issues. Instead of exploring the seeker's unique experience, the supporter shifts focus to their own experiences with detachment (dreaming from someone else's POV and reading novels to forget reality). There are no open-ended questions like ""How does this detachment affect your daily life?"" or ""Can you tell me more about when you first noticed these feelings?""
+
+Step 3: Score - 0","Step 1: Example - ""Absolutely. I always dream from the POV of someone else (usually imaginary). Reading novels and trying to forget reality feels better too.""
+
+Step 2: Justification - The supporter begins with ""Absolutely,"" which affirms the seeker's experience of detachment from their body. They then share their own similar experience of disassociation through dreaming from someone else's perspective and using novels to escape reality. This shows they understand the seeker's feeling of wanting to detach from their existence, but the response is primarily about the supporter's own experiences rather than deeply exploring or reflecting the seeker's specific feelings about body detachment and trying to feel like they don't exist.
+
+Step 3: Score - 1"
+6ay35x,dhiscyo,"Seeker: I literally cried myself to sleep, then I woke up in the morning to cry again.. Now I can't fall back asleep, but that's all I want to do
+Supporter: that's when you grab a bottle of something strong and put yourself back to sleep","Step 1: Example - N/A
+
+Step 2: Justification - There is no expression of warmth, compassion, or concern in the supporter's response. Instead of showing empathy for the seeker's emotional distress and difficulty sleeping, the supporter suggests using alcohol (""grab a bottle of something strong"") as a solution, which does not demonstrate care for the seeker's wellbeing. The response lacks any acknowledgment of the seeker's pain or any compassionate language that would indicate genuine concern.
+
+Step 3: Score - 0","Step 1: Example - N/A
+
+Step 2: Justification - There is no instance where the supporter attempts to explore the seeker's experiences or feelings. Instead of asking questions about why the seeker is crying or what they're going through, the supporter immediately jumps to suggesting alcohol as a solution (""grab a bottle of something strong""). The response completely bypasses any exploration of the seeker's emotional state or the underlying issues causing their distress.
+
+Step 3: Score - 0","Step 1: Example - N/A
+
+Step 2: Justification - The supporter's response does not demonstrate any understanding of the seeker's emotional state or experiences. Instead of acknowledging the seeker's distress, sadness, or exhaustion shown through crying and sleep difficulties, the supporter jumps to suggesting alcohol as a solution. There is no validation, reflection, or acknowledgment of the seeker's feelings.
+
+Step 3: Score - 0"
+7ce4za,dpp7tc5,"Seeker: I just realized my grandpa dying had no effect to me. I didn't feel sad nor shocked.. I still don't. I don't feel any way towards it.
+Supporter: Same, my grandpa was half a world away and to be honest, didn't really have that much of a bond with me. It made me feel less human for feeling so normal still but it caught up with me eventually. Either way, sorry about your grandpa","Step 1: Example - ""sorry about your grandpa""
+
+Step 2: Justification - The supporter briefly expresses sympathy at the end of their response with this short condolence. While it's minimal and comes only after focusing on their own experience, it does show a basic level of compassion toward the seeker's loss.
+
+Step 3: Score - 1","Step 1: Example - The supporter doesn't ask any questions or make attempts to explore the seeker's experiences and feelings around their grandfather's death. Instead, the supporter immediately shares their own similar experience.
+
+Step 2: Justification - The supporter's response is entirely focused on their own experience with their grandfather's death rather than exploring what the seeker might be feeling or experiencing. They don't ask open-ended questions like ""How do you feel about not having an emotional response?"" or ""What was your relationship with your grandfather like?"" that would invite the seeker to reflect on and share more about their experience.
+
+Step 3: Score - 0","Step 1: Example - ""Same, my grandpa was half a world away and to be honest, didn't really have that much of a bond with me. It made me feel less human for feeling so normal still""
+
+Step 2: Justification - The supporter demonstrates some understanding of the seeker's experience by sharing a parallel experience of not feeling emotional about a grandparent's death. The supporter acknowledges the feeling of emotional numbness and normalizes the seeker's experience by describing feeling ""less human"" for their own lack of emotional response, which aligns with the seeker's concern about their lack of feelings.
+
+Step 3: Score - 1"
+71c0m3,dn9pkff,"Seeker: Huhu. Tired of being college. Im done.
+Supporter: Sorry, it's hard. I hated it.","Step 1: Example - ""Sorry, it's hard.""
+
+Step 2: Justification - The supporter shows a minimal expression of compassion by acknowledging the seeker's struggle with ""Sorry"" and validating that college is ""hard."" However, this is a very brief and surface-level expression of concern that lacks depth or genuine warmth. The supporter quickly shifts to their own experience (""I hated it"") rather than focusing on the seeker's emotional state.
+
+Step 3: Score - 1","Step 1: Example - None present.
+
+Step 2: Justification - The supporter's response ""Sorry, it's hard. I hated it."" doesn't make any attempt to explore the seeker's experiences or feelings. The supporter merely offers brief sympathy and shares their own experience without asking any questions or inviting the seeker to elaborate on what they're going through. There are no open-ended questions or prompts that would encourage the seeker to share more about why they're tired of college or what ""I'm done"" means to them.
+
+Step 3: Score - 0","Step 1: Example - ""Sorry, it's hard. I hated it.""
+
+Step 2: Justification - The supporter briefly acknowledges the seeker's experience by saying ""it's hard"" which shows some recognition of the difficulty the seeker is expressing about college. The supporter also adds personal experience (""I hated it""), attempting to relate to the seeker's feelings. However, this is a very minimal acknowledgment that doesn't fully explore or validate the specific experiences and feelings the seeker might be having (burnout, frustration, overwhelm, etc.). The response is brief and doesn't demonstrate a deep understanding of what the seeker might be going through.
+
+Step 3: Score - 1"
+73cm60,dnpb3ft,"Seeker: Making my bed makes me feel like I have my life under control. I but at least it looks like I do.
+Supporter: I can't get anything done if my bed isn't made. It's the first thing I do every morning.","Step 1: Example — N/A
+
+Step 2: Justification — The supporter doesn't express any warmth, compassion, or concern toward the seeker. Instead, they shift the focus to themselves by sharing their own habit of making their bed every morning. They don't acknowledge the seeker's feelings about making their bed giving them a sense of control, nor do they express any emotional support or understanding.
+
+Step 3: Score — 0","Step 1: Example - There is no instance where the supporter attempts to explore the seeker's experiences and feelings. The supporter only shares their own experience with making their bed without asking any questions or prompting further elaboration from the seeker.
+
+Step 2: Justification - The supporter's response is entirely self-focused (""I can't get anything done if my bed isn't made. It's the first thing I do every morning.""). They don't ask any questions about the seeker's feelings or experiences, nor do they invite further elaboration. Instead of exploring why making the bed gives the seeker a sense of control or what that means to them, the supporter simply shares their own habit.
+
+Step 3: Score - 0","Step 1: Example - ""I can't get anything done if my bed isn't made. It's the first thing I do every morning.""
+
+Step 2: Justification - While the supporter is relating to the seeker's practice of making their bed, they don't demonstrate an understanding of the seeker's emotional experience. The seeker expressed that making their bed gives them a feeling of control in their life, but the supporter only shares their own habit without acknowledging the emotional aspect of the seeker's experience. The response focuses on the supporter's experience rather than showing understanding of the seeker's feelings about control and appearance of having their life together.
+
+Step 3: Score - 0"
+88x9zy,dwpez20,"Seeker: Why do i do this. When I'm having a real bad night. I will sleep in an uncomfortable place. Last night it was on the living room floor with just a hoody as cover.. it doesn't make me feel better. I maybe feel like I don't deserve something as normal as a bed..
+Supporter: I think it just could be that you're tired from all the pain and suffering you endured throughout the day, and (as you've said) feel that you dont deserve the bed. But trusy me, that bed will be the greatest thing in your life. Whether its to sleep in, or cry on, you will feel bettee","Step 1: Example - ""But trust me, that bed will be the greatest thing in your life. Whether its to sleep in, or cry on, you will feel better""
+
+Step 2: Justification - The supporter shows some concern for the seeker's wellbeing by encouraging them to use their bed and suggesting it will help them feel better. They're trying to be reassuring with ""trust me"" and implying they care about the seeker feeling better. However, the expression of warmth or compassion is relatively mild and doesn't directly acknowledge the emotional pain the seeker is experiencing.
+
+Step 3: Score - 1","Step 1: Example - ""I think it just could be that you're tired from all the pain and suffering you endured throughout the day, and (as you've said) feel that you dont deserve the bed.""
+
+Step 2: Justification - The supporter makes a minimal attempt to acknowledge the seeker's feelings by mentioning ""pain and suffering"" and repeating the seeker's statement about not deserving the bed. However, this is more of a restatement rather than a genuine exploration. The supporter quickly moves to reassurance about the bed rather than asking questions that would help understand the seeker's experience more deeply or inviting them to elaborate on their feelings.
+
+Step 3: Score - 1","Step 1: Example - ""I think it just could be that you're tired from all the pain and suffering you endured throughout the day, and (as you've said) feel that you dont deserve the bed.""
+
+Step 2: Justification - The supporter acknowledges the seeker's experience of feeling undeserving of comfort (""feel that you dont deserve the bed"") and recognizes there might be emotional pain behind this behavior. The supporter demonstrates understanding of the seeker's self-punishing behavior and the emotional state that might lead to it.
+
+Step 3: Score - 1"
+7xxfqn,duby1kh,"Seeker: Best night in a while :). It's 12:30AM and I'm halfway through a fifth of Skyy watching Cowboy Bebop. I'm not worrying about class, work, or some social bullshit. maybe this is what I needed.
+Supporter: Cowboy Bebop is one of my favorite animes! Glad you're doing well.","Step 1: Example — ""Glad you're doing well.""
+
+Step 2: Justification — This brief statement shows a mild form of expressed care toward the seeker's situation. The supporter acknowledges the seeker's positive state and expresses happiness for them, which demonstrates basic warmth and goodwill. However, it's a fairly minimal expression of compassion without deeper engagement with the seeker's feelings or situation.
+
+Step 3: Score — 1","Step 1: Example - N/A
+
+Step 2: Justification - The supporter doesn't make any attempt to explore the seeker's experiences or feelings. Instead of asking about why this night feels good to the seeker, what they're enjoying about not worrying, or exploring what they mean by ""maybe this is what I needed,"" the supporter only shares their own opinion about the anime and makes a brief acknowledgment that the seeker is ""doing well.""
+
+Step 3: Score - 0","Step 1: Example - ""Glad you're doing well.""
+
+Step 2: Justification - The supporter makes a very minimal acknowledgment of the seeker's positive emotional state by saying they're ""glad"" the seeker is doing well. However, they don't demonstrate any real understanding of what the seeker is experiencing - the relief from stress, the enjoyment of a quiet night alone, or the sense of peace the seeker is finding in their current situation. The supporter mostly focuses on their own interest in Cowboy Bebop rather than acknowledging the seeker's expressed feelings of relaxation and freedom from worries.
+
+Step 3: Score - 1"
+5o2dfv,dcg770i,"Seeker: Currently sitting at the water's edge, wanting to jump. Don't worry I don't think I actually will.
+Supporter: Why? Do you want to talk about it? Whats made you feel like wanting to?","Step 1: Example - ""Do you want to talk about it?""
+
+Step 2: Justification - This shows a mild form of concern as the supporter is offering to listen to the seeker's problems, which indicates they care about what the seeker is going through. However, the concern expressed is quite minimal and lacks explicit warmth or compassion. The supporter asks questions that show interest in the seeker's situation, but doesn't directly express emotional support or reassurance that would demonstrate stronger compassion or warmth toward someone in a potentially dangerous situation.
+
+Step 3: Score - 1","Step 1: Example - ""Why? Do you want to talk about it? Whats made you feel like wanting to?""
+
+Step 2: Justification - The supporter asks three open-ended questions that directly invite the seeker to elaborate on their feelings and experiences. ""Why?"" asks for the underlying reasons, ""Do you want to talk about it?"" offers space to share, and ""Whats made you feel like wanting to?"" specifically encourages exploration of the factors leading to their suicidal thoughts. These questions demonstrate a genuine attempt to understand the seeker's emotional state and situation.
+
+Step 3: Score - 2","Step 1: Example - ""Why? Do you want to talk about it? Whats made you feel like wanting to?""
+
+Step 2: Justification - The supporter does not demonstrate a clear understanding of the seeker's experiences or feelings. Instead of acknowledging the severity of the situation (being at the water's edge and contemplating jumping) or validating the emotional distress this implies, the supporter immediately asks questions. While asking what led to these feelings shows some interest in understanding, there is no reflection of empathy or recognition of the seeker's emotional state. The response lacks mirroring of the seeker's feelings or validation of how difficult their situation must be.
+
+Step 3: Score - 0"
+68qep0,dh0heoe,"Seeker: it's been almost a year now. how long will this go on
+Supporter: *hugs* Try and take care of yourself. I know it seems hopeless and like your trapped but don't let this fucker get the best of you","Step 1: Example - ""*hugs* Try and take care of yourself. I know it seems hopeless and like your trapped but don't let this fucker get the best of you""
+
+Step 2: Justification - The supporter demonstrates warmth and compassion in multiple ways. They begin with a virtual ""*hugs*"" which is a direct expression of warmth and comfort. They also show concern by encouraging the seeker to ""take care of yourself"" and acknowledging the seeker's emotional state with ""I know it seems hopeless."" These expressions show the supporter is emotionally invested in the seeker's wellbeing and wants to offer comfort and support during their difficult time.
+
+Step 3: Score - 2","Step 1: Example - None present
+
+Step 2: Justification - The supporter's response doesn't make any attempt to explore the seeker's experiences or feelings. Instead of asking questions about what the seeker is going through or inquiring about their emotional state, the supporter immediately jumps to offering comfort (""*hugs*"") and advice (""Try and take care of yourself""). While they acknowledge the seeker might be feeling hopeless, this is an assumption rather than exploration. There are no questions or prompts that would encourage the seeker to elaborate on their experience or express more about what they're feeling.
+
+Step 3: Score - 0
+
+AI: 0","Step 1: Example - ""I know it seems hopeless and like your trapped""
+
+Step 2: Justification - The supporter acknowledges that the seeker feels hopeless and trapped, which shows some understanding of their emotional state. However, this understanding is somewhat generic and doesn't fully capture the specific context or depth of what the seeker is experiencing. The supporter doesn't explore what ""this"" refers to or acknowledge the seeker's concern about how long their situation will continue.
+
+Step 3: Score - 1"
