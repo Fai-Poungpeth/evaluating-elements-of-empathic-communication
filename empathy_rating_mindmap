@@ -1,0 +1,34 @@
+// Empathy Rating Dimensions
+digraph {
+	rankdir=LR
+	root [label="Empathy Rating Dimensions"]
+	"Empathetic Dialogues"
+	root -> "Empathetic Dialogues"
+	EPITOME
+	root -> EPITOME
+	"Perceived Empathy"
+	root -> "Perceived Empathy"
+	"Lend an Ear"
+	root -> "Lend an Ear"
+	"Empathetic Dialogues" -> Empathy:" Understand feelings?"
+	"Empathetic Dialogues" -> Relevance:" On-topic responses?"
+	"Empathetic Dialogues" -> Fluency:" Easy to understand?"
+	EPITOME -> "Emotional Reactions":" Warmth/concern?"
+	EPITOME -> Explorations:" Explore feelings?"
+	EPITOME -> Interpretations:" Understand seeker?"
+	"Perceived Empathy" -> Understood
+	"Perceived Empathy" -> Validated
+	"Perceived Empathy" -> Affirmed
+	"Perceived Empathy" -> Accepted
+	"Perceived Empathy" -> "Cared For"
+	"Perceived Empathy" -> Seen
+	"Perceived Empathy" -> Emotional
+	"Perceived Empathy" -> Practical
+	"Perceived Empathy" -> Motivation
+	"Lend an Ear" -> "Validated Emotions"
+	"Lend an Ear" -> "Encouraged Elaboration"
+	"Lend an Ear" -> "Demonstrated Understanding"
+	"Lend an Ear" -> "Advice Giving"
+	"Lend an Ear" -> "Self-Oriented"
+	"Lend an Ear" -> "Dismissed Emotions"
+}
